@@ -12,7 +12,6 @@ The original plan (below) assumed Gemini for everything. That changed mid-projec
 - **Classification, reply drafting, and LLM-judging:** `microsoft/Phi-3-mini-4k-instruct`, 4-bit quantized via `bitsandbytes`, GPU-accelerated where available.
 - **Intent taxonomy:** 8 classifier intents + 1 keyword-based fraud/security override, discovered via two independent clustering runs (Gemini embeddings, then local bge-large) and finalized by manual read, not silhouette score — see `reports/intent_taxonomy.md`.
 - **Escalation policy:** three-tier deterministic `decide()` — fraud override → always-escalate on 4 high-risk intents → `validate_draft` safety-check failures → confidence+retrieval-similarity gate, thresholds set from the 25th percentile of real observed score distributions.
-- **No Banking77.** Wrong domain for AmazonHelp's actual traffic — would have been scope confusion, not rigor.
 - **Judge ≠ generator model family** was the original goal but became infeasible after the Gemini pivot (no second local model fit the hardware/budget). Mitigated with a distinctly-worded judge persona and different decoding (temperature=0.3 sampling vs. the generator's greedy decoding), and the risk is measured, not just asserted — see `reports/judge_calibration.md` and Section 4 of `reports/report.md`.
 - **Golden set sampled from a held-out pool**, never touched by taxonomy/RAG-corpus/classifier-training — 200 rows: 160 stratified across the 8 intents + 40 deliberately oversampled hard cases (fraud keywords, near-verbatim retrieval stress, billing/delivery vocabulary-overlap stress, low retrieval similarity).
 
@@ -78,21 +77,3 @@ python src/load_and_eda.py          # data/processed/amazonhelp_pairs.csv (168,8
 python src/clean_and_subsample.py   # data/processed/amazonhelp_working.csv + amazonhelp_heldout.csv
 ```
 
-## Timeline (as actually executed)
-
-- [x] Hour 0-0.5 — Setup
-- [x] Hour 0.5-1.5 — Clean + subsample (PII redaction, first-touch filter added after initial pass)
-- [x] Hour 1.5-2.5 — Intent taxonomy (two clustering runs, k=8, manual read)
-- [x] Hour 2.5-3.5 — Intent classifier + simple baseline (pivoted Gemini → local Phi-3-mini mid-hour)
-- [x] Hour 3.5-5 — Grounded reply drafting (RAG)
-- [x] Hour 5-6 — Escalation policy
-- [x] Hour 6.5-8.5 — Golden set (200 rows, stratified + oversampled hard cases)
-- [x] Hour 8.5-9.5 — Baselines run
-- [x] Hour 9.5-10.5 — Evaluation harness (LLM judge + human calibration)
-- [x] Hour 10.5-11.5 — Failure analysis
-- [x] Hour 11.5-13 — Report + decision log + README polish
-- [ ] Hour 13-14 — Final QA and submit
-
-## Reminder for round 2
-
-You will be asked to explain and modify this code live. Write it yourself (pairing with an assistant is fine and allowed), understand every piece — don't ship anything you can't defend on the spot.
