@@ -1,0 +1,701 @@
+customer_tweet_id,customer_tweet_clean,predicted_intent,confidence,fraud_override
+2296514,Wow. Burned twice in one week by one-day shipping. This time by a amzn carrier that didn’t even try to deliver.,delivery_shipping_issue,0.95,False
+2290871,"ordered ""The north face bag and got this.what a ridiculous <URL> guys are pathetic.seriously. <URL>",general_complaint_other,0.9,False
+2863398,"Where is Amazon Household in Canada (sharing of Prime benefits)? In this Christmas season, I guess we'll have to shop off Amazon not to spoil gifts...",positive_feedback,0.85,False
+592175,Just had the worst customer experience I've ever had on the phone with your customer service department for what should be a simple thing. They did not help me at all.,general_complaint_other,0.95,False
+2613158,I assume this is a spam email as I have not subscribed to Amazon Prime? <URL>,billing_subscription_dispute,0.9,False
+2448645,. I really hope my order did not get switched with a child’s. Because I order “Buzz the stimulating history of the sex toy” lol <URL>,marketplace_seller_trust,0.9,False
+569159,"you need to drop Intelcom as a courier, they have lost 3 of my shipments this past month already.",delivery_shipping_issue,0.95,False
+2621110,#amazon I am #frustrated with your shipping service over the past year. Packages delivered to the wrong house. Two day shipping takes four days. No receiving the package at all. #WhatIsThePurposeOfMyPrimeMembership,delivery_shipping_issue,0.95,False
+826598,"Why is it so hard to order a damn dash cam on @<PHONE>st one wouldn’t turn on, then the 2nd one missing a piece..",delivery_shipping_issue,0.9,False
+1258268,"hi, now that Amazon Echo and the DOT are in India, when can we expect the Alexa app in playstore ?",digital_service_device_support,0.9,False
+2360558,alexa responds when calling her name but when giving a command does nothing already tried rebooting,digital_service_device_support,0.9,False
+2384116,Eagerly waiting for my #EchoDot from . It would be great to have on Alexa. Any plans ?,positive_feedback,0.9,False
+1546662,tried to resolve and issue through online chat going round in circles automated system not working 😠,general_complaint_other,0.9,False
+555402,Another delivery fail! Wrong apartment building. Should stick w/ #USPS <URL>,delivery_shipping_issue,0.95,False
+2817169,"Hi , not sure how this is acceptable on a Sunday night after dark. You might want to talk to your delivery person. <URL>",delivery_shipping_issue,0.9,False
+1459736,is still showing as in stock online! Delivery for Saturday! So why am I having to wait till potentially Tuesday,delivery_shipping_issue,0.9,False
+2420204,Account id from which it was ordered is __email__ Looking forward for your help asap. <URL>,account_access,0.9,False
+1273027,no response me. I decide to go court against Amazon and their courier boy who theft my mobile.,general_complaint_other,0.9,False
+390419,". A ÉVITER DE TOUTES LES FAÇONS. RETARDS, PERTE DE COLIS, SERVICE CLIENT INEXISTANT cc",general_complaint_other,0.95,False
+321158,Anybody else experiencing erratic subtitles on - either ahead or behind. And is sleeping over it.,digital_service_device_support,0.9,False
+340497,I need help ASAP. This is something that needs to be handled over the phone. Is there a contact number?,general_complaint_other,0.9,False
+134927,can you link me to Kevin bridges tickets on your tickets website pls quick,general_complaint_other,0.9,False
+1664433,"I need to change my delivery location, no way to speak with someone to change. Can someone call me or sort this for me online?",account_access,0.9,False
+521743,"My nieces have the flu so thought would be nice to order them a craft, something to do while they don’t feel well... ordered from , paid extra for 1 day shipping and didn’t arrive on time ... so they didn’t get their present & out $ for shipping 🤬",delivery_shipping_issue,0.95,False
+582626,Where is the result for #Amazonrechargequiz?? #amazonIn,general_complaint_other,0.9,False
+529089,can you explain to me what’s going on with my order?? Original delivery date scheduled for 11/28 and “out for delivery” the last three days with no attempt whatsoever to actually deliver <URL>,delivery_shipping_issue,0.9,False
+1223763,why is it my responsibility to contact when YOU lost my package? Doesn’t seem like great customer service. <URL>,delivery_shipping_issue,0.9,False
+1667770,delivery system is worst of the worst. Is that because I'm not a prime member so you kept on delay my order? 6times within 7days,delivery_shipping_issue,0.95,False
+461195,AMZL US is awful.,general_complaint_other,0.9,False
+63948,"The embarrassing level of first item damaged not delivered, promised quick delivery of new 1 at no extra cost, then that doesn’t turn up and I get refunded, ask for an investigation, no reply 4 days after they said they would reply",delivery_shipping_issue,0.9,False
+2752097,"I made a order and two hours later I got this email, I didn't used a gift card at all I don't know why I'm getting this <URL>",general_complaint_other,0.9,False
+1466051,how do I connect my Fire TV stick to Echo Plus?,digital_service_device_support,0.95,False
+2290672,Is it legal to sell a product on your platform without mentioning MRP??,marketplace_seller_trust,0.9,False
+2628903,Thank you to and for ruining my day off and not delivering my sims 4.,delivery_shipping_issue,0.9,False
+218183,When you stay in from 2pm for a package. Then be told that they tried to deliver it at 22.30?? I'm sat next to the door guys!,delivery_shipping_issue,0.9,False
+180377,"After canceled orders and delayed order, the only thing left was your customer executives raising their voice. Pathetic services",general_complaint_other,0.9,False
+971750,Why does my registered devices section in app show four devices when I subscribed to prime from only one device?,digital_service_device_support,0.9,False
+1006005,waiting for my page avenue vinyl to be delivered but the delivery date keeps getting pushed back :(((,delivery_shipping_issue,0.95,False
+1457944,My order has said shipped since the 24th and the last day for it to arrive is tomorrow but the package still isnt here any ideas,delivery_shipping_issue,0.95,False
+970273,Can't get to install on my S8 :-( *cries*,digital_service_device_support,0.9,False
+1157258,Real footage of my delivery driver dropping off my package in the wrong location and booking it. <URL>,delivery_shipping_issue,0.95,False
+729059,I have already posted the details. My contact no is <PHONE>,general_complaint_other,0.9,False
+757131,Our account was suspended for no logical reason. No response from you in days despite repeated requests for help.,account_access,0.9,False
+1311532,pathetic customer service continues. Pack not picked up despite 10+calls & no site of refund despite commitments. CC,general_complaint_other,0.9,False
+804016,Im trying to establish if I had an account hacked after a dodgy email but cant log into the account with that email address.,account_access,0.9,True
+425729,Don't matter what I do I cannot Find ANY of my Orders,digital_service_device_support,0.9,False
+1328911,"Where can I forward emails from sellers that ask me to review products and give 5 star reviews, plus a free product?",general_complaint_other,0.9,False
+2616426,All this for a pack of crayons? Really?! <URL>,general_complaint_other,0.9,False
+2011905,how can I (UK) send buy a gift card for someone in the US? Or vice versa. UK/US codes don't seem to work in the other country,marketplace_seller_trust,0.9,False
+678312,Meanwhile in #Goa .. and it was delivered #Amazon <URL>,delivery_shipping_issue,0.9,False
+1423519,"Hi I’ve been charged twice for a purchase, how can I get this sorted? Thanks 🙏",billing_subscription_dispute,0.95,False
+481672,Not at all impressed with this beat up book I just received from . Scratches and dings much worse in person. Merry Christmas? <URL>,delivery_shipping_issue,0.9,False
+2915815,"Hi I downloaded your app and made my first purchase and i don't believe it deducted the $10 that it advertised for downloading the app, any help appreciated",billing_subscription_dispute,0.9,False
+1293721,Stupid . Ordered two things on Monday with prime two day. You say its getting delivered today ups says Friday. Neither are 2 day :(,delivery_shipping_issue,0.95,False
+2349578,can someone reply to me regarding my refund please? I’ve emailed twice but no reply.,refund_return_dispute,0.9,False
+316327,super disappointed in the delivery service after calling the customer service 15 times still no help,delivery_shipping_issue,0.95,False
+1251981,i have to present it on 28th oct.if u can deliver by that day then its ok else cancel#<PHONE> urgent delivery required,delivery_shipping_issue,0.9,False
+319195,my order which was due today was not delivered... totally disappointed and unsatisfactory...very poor service,delivery_shipping_issue,0.95,False
+894221,"the £47 you randomly took out of my account still hasn’t been sorted, help?",billing_subscription_dispute,0.95,False
+266859,my package says delivery but there is nothing at my door! How do I report it??,delivery_shipping_issue,0.95,False
+383307,When the amazon package says “out for delivery” <URL>,delivery_shipping_issue,0.9,False
+2903585,disappointed at your delivery service. Product left on doorstep while informed ‘handed to recipient’ whilst no one was at home. Still waiting for your reply.,delivery_shipping_issue,0.9,False
+1780193,Thanks to I have not been able to play #2k18 today devastated!,general_complaint_other,0.9,False
+2957031,hi. A parcel I am expecting has not been delivered but when I use tracking it says it was delivered yesterday. Had an email to say they tried to deliver it again today.,delivery_shipping_issue,0.9,False
+963292,"Hey when I say ""Play songs by Beck"" literally the last things I want is song by Nickelback. It was funny once, please stop.",general_complaint_other,0.9,False
+2938638,I guess the book I pre-ordered was delayed and has now disappeared from my orders altogether. Thanks .,delivery_shipping_issue,0.9,False
+841700,Toally disappointed！ <URL>,delivery_shipping_issue,0.9,False
+2832929,I just had a coffee maker in my cart and now I can't get it to stay there. What happened?,digital_service_device_support,0.9,False
+1503906,"Finally, set up of Echo and Alexa complete! :)",positive_feedback,0.95,False
+1408144,"Found on the road in front of my house, no delivery truck in sight. This is not even address to me. <URL>",delivery_shipping_issue,0.9,False
+2153962,"Wow, is this what I paid 100 rupees for next day delivery. 10 DAYS!! It STILL HASN""T COME!! <URL>",delivery_shipping_issue,0.95,False
+2956983,How do i go about using a gift card but also use my card because what's in the gift card isn't enough?,digital_service_device_support,0.9,False
+1286418,why was my prime package delayed and now expected to take 3-4 days???? #wtf this happens way too often,delivery_shipping_issue,0.95,False
+1710653,"you disappointed me twice since morning - cancelled an order, didn't deliver another. Soothing words don't improve CSat",general_complaint_other,0.9,False
+1667791,The last week I've had the worst experience with . Prime items not arriving after 10 days and customer service being awful 1/2,delivery_shipping_issue,0.95,False
+78811,Please can you tell me where I can find a VAT invoice for an Amazon prime membership?,billing_subscription_dispute,0.9,False
+2636940,"hey I've contacted customer service three times in the last week and been promised I'd be helped by your advance team every time, yet I just keep getting my password reset and have never been contacted. What's up with that.",account_access,0.9,False
+149286,"hiya, I ordered a headphone jack from you and got it yesterday and it’s already broken. Please advise.",delivery_shipping_issue,0.9,False
+2284009,silly question but what if I don't want fire hd tablet to be a kids edition? Is there a way to make it a regular tablet?? Seems pretty simple to me but no answers online. #question,general_complaint_other,0.9,False
+826272,LOL. My replacement book from was packaged well but DAMAGED. Some lackie is having a good laugh. Sent a damaged book.,delivery_shipping_issue,0.95,False
+1344459,"ordered quantity of 2 of iPhone 6 cover, received only 1.",delivery_shipping_issue,0.95,False
+2944326,"In less than a week has lost a package, delayed two Prime packages by 5 days, and damaged a package of mine. #tistheseason",delivery_shipping_issue,0.9,False
+2344027,What’s up with Amazon though? What’s really going on with my delivery??? 🤔,delivery_shipping_issue,0.9,False
+1178913,"Yo , why the hell isn't there a drop down option to navigate to Amazon Family. I have to google it every time. Super annoying?",general_complaint_other,0.9,False
+1444424,do you check who the sellers are and how they service the customers #Mumbai #pathetic #service item still not delivered,delivery_shipping_issue,0.95,False
+727120,Now I got to know amazon is not able to deliver product after giving in writing. Shame on u guys. Its ridiculous😡 <URL>,delivery_shipping_issue,0.9,False
+358824,please tell me who send the gift items with price tag on it? Use some sense atleast take off the price from gifted items..!!!,general_complaint_other,0.9,False
+2290420,I got fed up with stubborn attitude. It seems Amazon team supports fraud.,general_complaint_other,0.95,True
+918018,How come you will deliver all this to my house no problem but you need me to submit my passport online before I can watch #MrRobot on #AmazonPrime #AmazonVideo. Also what does #Amazon do with the passport data? <URL>,digital_service_device_support,0.9,False
+2478908,How do I contact you? I can not find an email address at amazon.de,general_complaint_other,0.9,False
+152067,Amazon delivery is terrible they deliver parcels i ordered 2 days ago and still waiting for one i ordered last week. Also the drivers knock dont give anyone time to get to door and walk off leaving parcel on the doorstep,delivery_shipping_issue,0.95,False
+2790469,"so annoyed, 2 packages that were meant to be delivered today, both say delivered and handed to resident, yet no one in the house has received anything!!😡",delivery_shipping_issue,0.95,False
+1501897,Recvd a sondmagic bullshit headphine instead a sony BT hdph. Your team is nt rdy 2 hlp. pls teach them quality cntrl <URL>,marketplace_seller_trust,0.95,False
+1366159,Anybody knokw how to logout of on a mobile? Not an app,account_access,0.9,False
+2742941,The amount of times I’ve had my call transferred to someone from a “different department” of is mind blowing. I didn’t even know this many dif services existed. 🙄 just trying to get one situation taken care of....,general_complaint_other,0.9,False
+806325,"what's the delay with orders to PR? Shipping has been restored by USPS, Fedex & UPS what are you guys waiting 2 send our things? <URL>",delivery_shipping_issue,0.9,False
+282138,"This is funny! I ordered at 11:58AM, and you shared the details with the courier at 8:30AM?! <URL>",delivery_shipping_issue,0.9,False
+313470,bad service. Don't deliver product on time. Bad CS team. Worst courier. Don't even have track of order. #shameonamazon #flipkart,delivery_shipping_issue,0.95,False
+1061358,very poor experience with subscribe and save. Order never delivered. Refund messed up. Very poor show.,refund_return_dispute,0.95,False
+93589,can someone look into order <PHONE>. Supposed to be delivered today but it hasn't even left the facility. What's up? Prime member ordered on 11/27,delivery_shipping_issue,0.95,False
+2132770,is taking their sweet ass time shipping my @<PHONE>th anniversary collection. Not sure whether to be concerned or not,delivery_shipping_issue,0.9,False
+2823133,very bad service o had booked order by 24th of Nov with pay extra 100Rs for fast delivery but still order not delivered till my order no <PHONE>,delivery_shipping_issue,0.95,False
+1716701,can I access my UK Amazon video purchases over wifi whilst abroad because they're ones I actually bought?,positive_feedback,0.9,False
+1472553,"Got a text my groceries were delivered, but there are no groceries in front of my door or anywhere around my building.",delivery_shipping_issue,0.95,False
+2632997,unable to cancel order from iOS app. Getting blank page. <URL>,account_access,0.9,False
+417848,I had spoken to customer service 10 days ago and they promised a revert for fire stick Please advise,digital_service_device_support,0.9,False
+1469957,Where is the game at?,general_complaint_other,0.9,False
+907083,I think I received a double order. Which is great (!) but I didn't pay for 2 of everything. How do I return for free?,refund_return_dispute,0.9,False
+579041,So damn annoyed!! Yet another parcel has gone missing from 2 in one week!! Really think they need to change couriers as I know I'm not the only one this has happened to!! Hoping can sort it as I'm not a happy bunny! 😠,delivery_shipping_issue,0.95,False
+679037,"I just bought a beanie that was on an #blackfriday deal with my credit card points. Who cares that it's been over 80 degrees, I'm going to the snow in about a month.",positive_feedback,0.9,False
+218180,why I order with 2 day shipping on Saturday and my order just now ship?????????? Y??????,delivery_shipping_issue,0.95,False
+583498,Thinking #Amazon has made a deal with #UPS to allow ups to slowdown shipments. Last 3 orders have been delayed. #UPS,delivery_shipping_issue,0.9,False
+2162407,disgusting #service - first wrong item delivered and then no hurry to pick up despite follow-ups...return order no : <PHONE>...,delivery_shipping_issue,0.95,False
+374538,"nothing like a 5 day wait for 2 day shipping. Thanks for the let down there , had to change plans for nothing. #geegee #NoPCBuild",delivery_shipping_issue,0.95,False
+1145033,"hi I ordered 3 super soakers a minute ago, where are they",delivery_shipping_issue,0.9,False
+2103034,"When mess up, they really mess up big. For a company their size, it is absolutely shocking. #badcustomerservice",general_complaint_other,0.95,False
+2383750,I GOT A DAMAGED PRODUCT ON DIWALI PURCHASE. HOW AMAZON CAN DO THIS TO YOUR CUSTOMER? ORDER ID- <PHONE> <URL>,delivery_shipping_issue,0.95,False
+339160,What is going on with the shipping of John Green new book Turtles All The Way Down? My book was supposed to ship yesterday and,delivery_shipping_issue,0.9,False
+1839565,cannot figure out why there is no option to play any season of a specific show on my #Firetv. #Fail. back to #AppleTV,general_complaint_other,0.9,False
+395431,is there a problem setting up an Amazon Prime account tonight?,account_access,0.9,False
+2245412,"ordered a TV from you guys, arrived broken. Called to return, was told I was get a refund and could buy a new one. Went to buy a new one and it won’t ship until february? Surely there’s something you can do about this",delivery_shipping_issue,0.9,False
+464272,"couldn’t deliver a package within 9 hours of arriving in Austin, using their own delivery service. Now they are telling me it could be another 2 days. Keep this in mind for Christmas. Oh, and it’s Prime.",delivery_shipping_issue,0.95,False
+204951,I was trying to leave a review for Elites of Eden on amazon but it kept crashing what the hell,digital_service_device_support,0.9,False
+1607918,how can one deduct money from account without prior permission. Want to know what's happening ?,billing_subscription_dispute,0.9,False
+1556286,"""your amazon music marketplace isn't configured correctly for this device"" what I get when I try to play music. Help.",digital_service_device_support,0.95,False
+723944,no speed change for video player? any plans to bring the feature in?,general_complaint_other,0.9,False
+1865031,what are you playing at? Not the first time this has happened with excessive packaging. <URL>,delivery_shipping_issue,0.9,False
+224585,"I am waiting 4 my order to be delivered for 20days, u r bill & delivery guys bill mismatch is not my issue",billing_subscription_dispute,0.9,False
+519733,"What do you define as ""2 days"", exactly? <URL>",digital_service_device_support,0.9,False
+2670765,"- Hello, Today I received text on my mobile as Amazon has been credited 5000/- RS to my amazon pay balance and its valid till midnight, why such text you guys are sending to make full to customers...however I am not able to see any balance in my account...",billing_subscription_dispute,0.9,False
+1173051,NEED URGENT HELP FROM YOU I HV BEEN SCAMMD 4 RS. 3.5LACS! PLZ REVERSE TRANX & STOP DELIVERY! #cybercrime <URL>,general_complaint_other,0.9,False
+2363257,Glad I got these in store... this packing job is bull!! <URL>,delivery_shipping_issue,0.9,False
+2972792,can y'all update my account so I can get my camera through prime. Im not about to wait weeks for it to come through,digital_service_device_support,0.9,False
+1424249,"Hello, I seem to have lost the ability to sort my Lists by price; something I do daily to find deals. What's happened?!",digital_service_device_support,0.9,False
+303507,"If you order a book on environmentalism from , they will send it in packaging wasteful enough to destroy the actual amazon.",digital_service_device_support,0.9,False
+2835677,"Same day delivery order placed in the morning. Status is ""Arriving today"" and ""Shipping soon"". What are the chances that I will see the package today?",delivery_shipping_issue,0.9,False
+331325,has closed my account saying I violated their policy!! The fact is deliverd a defective product twice in a row!,delivery_shipping_issue,0.9,False
+1376417,Hey I ordered my Halloween costume FOR TOMORROW off of prime. Due tonight by 8pm and it HASN'T EVEN SHIPPED YET 😡😡😡😡😡,delivery_shipping_issue,0.95,False
+1725786,Had placed order on 5 sep 2017. After 63 days also the team is trying to figure out where order is stuck.,delivery_shipping_issue,0.9,False
+2881331,"picked up an order from amazon locker this morning, box was already open and one item missing..who do i contact to receive my item, it is urgent!",delivery_shipping_issue,0.95,False
+2028423,best client service ever 😍,positive_feedback,0.98,False
+876230,What are you thinking of?! Such a waste of packaging. What happened to the fold over delivery envelopes? #wasteful #overkill 😬🤦‍♀️ <URL>,delivery_shipping_issue,0.9,False
+2498841,Do you have an actual phone number that will let me talk to actual humans? DM me if you do.,general_complaint_other,0.9,False
+2457151,hi i live in canada was in india and ordered devon ke dev mahadev dvds and one dvd is not working wat to do i have reached back canada waiting of ur reply,digital_service_device_support,0.9,False
+2745952,"Dear , shipping at holiday time not in a brown box does not make this mom happy? There's one gift down the tubes. #fail",delivery_shipping_issue,0.9,False
+295819,Hey director's cut or theatre cut ?? <URL>,general_complaint_other,0.9,False
+1398412,Why my prime membership has been cancelled is this the way you guys handle customer frustration ?,billing_subscription_dispute,0.9,False
+633583,Are you freaking kidding me ?? This is how you deliver to businesses now?? <URL>,general_complaint_other,0.9,False
+1773827,"2nd order this week that hasn't arrived in the promised Prime shipping window...in fact, it hasn't even SHIPPED. What's happening?!",delivery_shipping_issue,0.95,False
+1276237,"BTW, the link in your Treasure Truck texts is broken: <URL>",digital_service_device_support,0.9,False
+1683613,"Hey you locked me out of my account after I bought something and now won’t let me log back in, what gives?!?",account_access,0.95,False
+2602197,"Your app on Android is a pile of crap. Downloaded songs don't appear in offline music, can't add songs to My Music, what's the point.",digital_service_device_support,0.9,False
+339472,It's really frustrating trying to order things through lately. They seem to screw up shipment and delivery every time.,delivery_shipping_issue,0.9,False
+2823142,Ironic that amazon are doing an advertisement push for deliveries on tv yet their prime delivery service has been getting worse for months now next day my ass! 6am mon for dvds & next day for them is Wednesday & Thursday?,delivery_shipping_issue,0.9,False
+163603,I don't understand why I even have an prime account when the shipping always is longer than 2 days. I'm bout to delete the membership.,billing_subscription_dispute,0.9,False
+286261,Any update on Cast to TV on Amazon Prime Video for Android ?,digital_service_device_support,0.9,False
+2766935,Hi apparently you are refunding me for an order that wasn't delivered but I received it.,delivery_shipping_issue,0.9,False
+2176633,"Now my knife set came from an Amazon warehouse deal. It just said it would be re-packaged, not scratch/dent. I was even expecting some level of scratch/dent. Not a mangled block and missing sharpener insert. What you sent me is an absolute joke. <URL>",marketplace_seller_trust,0.9,False
+2503558,"could you train your logistics drivers to stop putting packages right in front of security and screen doors. Not only can anyone walking down the street easily spot them, I also must push the box out of the way with my door just to get out.",delivery_shipping_issue,0.9,False
+500725,My package from Amazon has been lost for two days somewhere in the half-mile between the Coralville UPS office and the Coralville Post Office.,delivery_shipping_issue,0.9,False
+544450,"The new printer we ordered, on Nov. 22nd, was supposed to be here from Nov. 29th - Dec 1st. Now I got an update it may not be here until Dec. 7th?What the hell",delivery_shipping_issue,0.95,False
+2044486,My 5 year old may be Alexa’s biggest fan. I just found this on her nightstand. “Alexa told me how to spell her name”. <URL>,positive_feedback,0.9,False
+782421,u gave me defective phone and now you are not giving me replacement #cheater,delivery_shipping_issue,0.9,False
+476904,My myntra product was wrong picked by your associate. Please solve this issue ASAP,delivery_shipping_issue,0.9,False
+2816362,"My account says driver delivered order this afternoon that it was hand delivered and I signed for it. I immediately received a text and went to retrieve my package. No package, driver didn't ring bell, no one on camera. No help from CS. So, I filed a police report.",delivery_shipping_issue,0.95,True
+957139,"This is the second time the delivery person didn’t drop off my package. Never an issue before, now it is? I paid next day too!",delivery_shipping_issue,0.9,False
+138897,"2 questions - 1) why can't I Send gift card from my Amazon pay balance?, and 2) how can I complaint against rude Amazon customer representative",account_access,0.9,False
+11039,I'm so anxious to see that my Xbox one X will be shipping. I'm seeing other people get their confirmations. Where's mine,delivery_shipping_issue,0.9,False
+2941999,", your drivers always call when they’re at my door instead of buzzing. Thank you! #sleepingbaby #goodiesatmydoor #amazonfresh",positive_feedback,0.9,False
+1049840,Again your team started playing with my order.,general_complaint_other,0.9,False
+1698738,😅 I wish the box was bigger! My phone chargers need more space😅 #excessive #FirstWorldProblems <URL>,general_complaint_other,0.9,False
+1638693,What's wrong with ? 's India's Most Fearless listed under fiction eBooks. <URL>,marketplace_seller_trust,0.9,False
+2824718,get that you don't tell Prime customers you don't do next day delivery anymore all the ones with prime says Wednesday now,billing_subscription_dispute,0.9,False
+1041846,What's the point of my apartment having a package locker when your couriers don't even use it!?!?!? Another missing package. Thanks a lot.,delivery_shipping_issue,0.95,False
+1762365,"Hi, so I ordered some pens they leaked during shipment is there a way you can help me with this issue ? Thank you,",delivery_shipping_issue,0.95,False
+2311278,"Amazon, you have failed me so many times this year. What does ""contact Amazon"" even mean, when there's no CTA or phone number? <URL>",general_complaint_other,0.9,False
+1260955,"Dear Amazon, where's my Overwatch anthology volume 01?",general_complaint_other,0.9,False
+535764,is so concerned with the already 5 day delay that they will have someone contact me in 2 days. How can you do business with a company like this? <URL>,delivery_shipping_issue,0.9,False
+1360001,"WTH! guaranteed delivery on Oct 27, and my account says GET IT NEXT WEEK! This is atrocious! I need this today. <URL>",delivery_shipping_issue,0.95,False
+348643,"I really hope doesn't fail to send my package again, had to cancel, reorder a week later than I was told it'd arrive #ShadowOfWar",delivery_shipping_issue,0.9,False
+2159276,"non receipt of item, amazon dint even bother to call back..",delivery_shipping_issue,0.95,False
+2984587,"#OnePlus5TAppQuiz hey!!! Who is the winner for the #OnePlus5TAppQuiz ??? Publish the winner list,waiting for your update.",general_complaint_other,0.9,False
+182627,I just had such shitty customer service from and it's over an $18 refund. Oh my god it is not worth the trouble.,refund_return_dispute,0.9,False
+593471,I’ve received two packages now in original packaging...what’s up with that? #peoplecanseewhatiorder,general_complaint_other,0.9,False
+2613280,"On 30 October, ordered stuff for my lab from and . Surprised to find that delivered early, is over a week late! (1/2)",delivery_shipping_issue,0.9,False
+2858216,Feel like the worst person in the world since Jay’s present didn’t arrive today (despite paying extra delivery for it to be here this morning 😡😡),delivery_shipping_issue,0.95,False
+1730743,"I would like to raise a serious complaint regarding my account and my failed order, 3rd time now and I find it disgusting",general_complaint_other,0.9,False
+325857,yet another time i need something with my #prime membership and #amazon fails to deliver on time as promised. Very disappointed,delivery_shipping_issue,0.95,False
+350778,Home page it shows 749 but on opening link it's 2000+ <URL>,general_complaint_other,0.9,False
+1493278,When your delivery driver breaks in to a secure locked box and breaks the hinges and cvs are useless #shit #Amazon #stillnotresolved,delivery_shipping_issue,0.95,False
+1225201,i am having issue with my order call me on <PHONE> order placed by __email__ call me urgently,delivery_shipping_issue,0.9,False
+351649,is there delivery on Monday October 9?,delivery_shipping_issue,0.9,False
+144226,- I pay for amazon prime to get things next day! First the courier damages my shower screen and I don’t get notified and then I book another day off work for my delivery that’s now 2 weeks over due for it not to arrive!! Not acceptable service in my eyes!!,delivery_shipping_issue,0.95,False
+2281590,"Logging into got kind of annoying. Username and password input fields are on two different pages, which makes it hard to use saved credentials on some devices.",digital_service_device_support,0.9,False
+1311261,", fraud and deceitful things happening ! No customercare, only sale",general_complaint_other,0.9,True
+985170,false promises. No updates & not informing customers.. Is what I can say about Amazon delivery even after hvng prime membership,general_complaint_other,0.9,False
+1595189,can i use echo plus adapter or echo show adapter for my echo spot?,digital_service_device_support,0.9,False
+2474863,"Since the most recent update my spot in my books will no longer sync between my devices. All settings are correct, so that isn't the problem. Is anyone else having this problem?",digital_service_device_support,0.9,False
+1448033,"Hi, email saying my locker delivery being returned as I've not collected. It only arrived yesterday + email said collect by Sat!",delivery_shipping_issue,0.95,False
+2869559,"I'm so sick of paying for this service, getting a notification that it's been delivered and my stuff is no where to be found.",delivery_shipping_issue,0.95,False
+1179705,Here we go again.My package delivered to someone else. Happens approx. every other time I order which is a lot! They don’t care. I complain and it happens over & over again!!!,delivery_shipping_issue,0.95,False
+99827,I want to know the return/refund time duration?,billing_subscription_dispute,0.9,False
+290481,i'm having trouble accessing paw patrol. i can't watch other videos. says low bandwith. can you assist?,digital_service_device_support,0.9,False
+2706764,"so where's my order? Amazon page says by today via USPS, but isn't showing out for delivery. USPS track says ""On Its Way to USPS Fri. Nov 14. DEPARTED SHIPPING PARTNER FACILITY, USPS AWAITING ITEM CARTERET, NJ ?? Y do I pay for prime shipping???",delivery_shipping_issue,0.95,False
+982641,It has been 3 days since my delivery is due. What is wrong?? Your customer care executives have been promising all the time. But still nothing.!!!,delivery_shipping_issue,0.9,False
+2526218,been trying for a few days to get acknowledgement that I cannot set a delivery address on my wish lists. No response at all. =(,general_complaint_other,0.9,False
+922263,#AmazonGreatIndianFestival is nt delivering fridge to my postal address. What kind of sale is this? i wanted to give surprise.,delivery_shipping_issue,0.9,False
+583473,"What the hell, - your delivery driver needs serious training if he thinks a shared hallway in a block of flats is a safe place to leave my £70 package! Unreal! <URL>",delivery_shipping_issue,0.95,False
+180099,#AmazonGreatIndianFestival is a chuttiappa? U guys delivered me an empty pckg of Mi4i Tempered glass. Really pathetic service. <URL>,delivery_shipping_issue,0.95,False
+2779167,Having amazon prime both ruins your bank account and increases your quality of life lol,positive_feedback,0.9,False
+2526993,You cheap out on tape and empty boxes get delivered. Not a good start to the season. <URL>,delivery_shipping_issue,0.9,False
+701441,yet another same day delivery didn’t happen. This is ridiculous.,delivery_shipping_issue,0.95,False
+1315532,"I HV ordred a prodct, waitin fo return pickup sinc last 9-10 dez & not refunding coz de r unable to pickup on the scheduled time.",delivery_shipping_issue,0.95,False
+2971899,ordered a book before thanksgiving and it’s still not here what’s up?,delivery_shipping_issue,0.9,False
+2238707,The wastefulness of makes me so angry!! 🤬 <URL>,general_complaint_other,0.9,False
+728326,"Looks like is a #GameofThrones fan,hope she is ready as #WinterandDiwaliiscoming #amazonfestiveriddles 😉😊 <URL>",positive_feedback,0.9,False
+2763501,Thank you so much today I m very happy your service is very fast today I m receive my product <URL>,positive_feedback,0.9,False
+2763499,How do you get a manager call back from please? My partner is having money taken out of his bank left right and centre and nobody seems to understand his issues! This is getting beyond a joke now. He doesn't want to speak to another agent they are rubbish. Thanks.,general_complaint_other,0.9,False
+2936690,Whats going on ? <URL>,general_complaint_other,0.9,False
+2133305,faster refund what a joke haven't got my refund since last one week <URL>,refund_return_dispute,0.9,False
+1150902,"Please, where's my order? Delivery was at 8pm yrstdy, got a text at 7:47p informing me of undelivered package #URGENT",delivery_shipping_issue,0.95,False
+2399403,"Sometime back got a message,your order out for delivery and in 5mins another update: customer not available. Absolute Stupidity",delivery_shipping_issue,0.95,False
+948453,"Well this is fun, is crap again, page just isn't loading right anymore no matter what...",general_complaint_other,0.9,False
+46492,For my return amazon has issued refund amount on 29th oct 2017 but this is still not credited into my bank account,billing_subscription_dispute,0.9,False
+2261715,very poor helpline service,general_complaint_other,0.9,False
+909507,kindly check DM Team,general_complaint_other,0.9,False
+314228,I'm really getting tired of orders suddenly being out of stock AFTER I place my order. Waited 2 weeks for book before I canceled it.,delivery_shipping_issue,0.9,False
+2756720,"hi, on your deals page, i've always been able to filter out the lightning deals all by themselves. that seems to be gone since you started the black friday deals. i can't find anything now. can you put back please before thursday?",general_complaint_other,0.9,False
+1433607,hi. My account was temporarily suspended due to lack of funds but now I have the funds. How long to reactivate?,billing_subscription_dispute,0.9,False
+2604261,Any recent updates regarding the launch of amazon prime music in India?,positive_feedback,0.7,False
+2919852,Why is your driver squatting in-front of my house? Let me give you a hint ... he/she is not tying their shoes. I have it on video! <URL>,digital_service_device_support,0.9,False
+127431,has really went down hill on everything how you screw up a simple order. Plus done with Prime that has went down hill too especially for #gamers,general_complaint_other,0.9,False
+773478,Dear why does it say #prime if it still takes a week to arrive? And it's in stock? I'm super sad.... #HalloweenPartyThisWeekend,delivery_shipping_issue,0.9,False
+2137875,Mail room I guess is anywhere on your property. Like a foot away from the street and thrown out your window at night. And resident is the bottom of your steps. Come on get your shit together <URL>,digital_service_device_support,0.9,False
+1772999,I am so f*cking done with Logistics #FAIL,delivery_shipping_issue,0.95,False
+982266,Card gets declined. Clicks try again. Works fine. Not I gotta wait a another day for my new phone. Thanks,billing_subscription_dispute,0.9,False
+2800412,missed targeted delivery date again. This is getting ridiculous. Don’t guarantee if you can’t make date windows!,delivery_shipping_issue,0.95,False
+1503848,I have tried too many times to download your new album but ain’t letting me? I could 😭,digital_service_device_support,0.9,False
+1696866,#Alexa is a nightmare for parents. “Where’s my stuff?” says what is in the parcel. #christmasruined if any kid asks this.,digital_service_device_support,0.9,False
+152071,you incorrectly charged me full price on all 10 items I purchased in your BlackFriday sale. Customer services of no use at all,billing_subscription_dispute,0.95,False
+1028957,we are not able to contact Amazon customer care executive.whenever I call computerized version come,general_complaint_other,0.9,False
+335240,"It's not arriving today then, is it ? An email would have been nice, so I didn't sit in all day... <URL>",delivery_shipping_issue,0.9,False
+1251298,"ok, this is getting ridiculous. Yet another order is late. This is unsatisfactory for a paid service. 3 orders in 2 weeks now.",delivery_shipping_issue,0.95,False
+571777,can you please fix your ios app ? <URL>,digital_service_device_support,0.9,False
+2564088,I have ordered product from Amazon I am a prime customer but every time I get the product after 10 days . This time I needed the product to give gift but as usual the product is not even dispatched after 2 days. These are the SS. Only promises but product noy dispatched <URL>,delivery_shipping_issue,0.9,False
+2889348,"My package was not delivered. I live in Nova Scotia, not Quebec. <URL>",delivery_shipping_issue,0.95,False
+412286,"i asked for your online service the book ""hunger games"",received un very poor conditions,the product without its pastes. #deception",marketplace_seller_trust,0.95,False
+1027501,Hi. I have given the wrong address by mistake while placing an order yesterday. And I'm not able to change it. Please assist.,account_access,0.9,False
+1173020,U are fast & fab but why so much #plastic #packaging for my little tool? <URL>,marketplace_seller_trust,0.9,False
+1487891,"awesome. Was guaranteed my food over 2 hours ago, ordered over 13 hours ago. An now having to go shopping at 11PM.",delivery_shipping_issue,0.9,False
+227080,I love .. there was a minor error on my delivery and they still gave me a free month of prime and 20% off that purchase! 🙏🏽,digital_service_device_support,0.9,False
+494858,been waiting for a customer service rep for 45min. You guys suck,general_complaint_other,0.9,False
+2858162,"no order, no idea where it is, cant send another, cant contact courier. WELCOME TO AMAZON",delivery_shipping_issue,0.95,False
+951992,does such a good job trying to keep customers happy. Shipment coming in late and they made it right. Thanks “Anita S” very prompt!,delivery_shipping_issue,0.9,False
+598980,"I ordered a case of wine on a black friday deal, it was due to be delivered on Thursday. I was on Thursday told there would be a delay. Now it shows as undeliverable. But I have had no email to tell me what is going on.",delivery_shipping_issue,0.9,False
+1463455,Just ordered an item on Prime. Why is the estimated delivery date Monday? Are they slacking in customer service now?,delivery_shipping_issue,0.9,False
+2446277,I am waiting on a book that Amazon shipped using neither UPS nor USPS.,delivery_shipping_issue,0.9,False
+215195,Shame on you amazon. <URL>,general_complaint_other,0.9,False
+182562,you should change the name of your sale from #AmazonGreatIndianFestival to #AmazonLateDeliveryFestival. Order delayed by 8 days.,delivery_shipping_issue,0.95,False
+2949506,"FYI your mobile-based ""holiday giveaway"" is flawed and not working properly. Disappointing.",general_complaint_other,0.9,False
+2124925,Check the order details <URL>,general_complaint_other,0.9,False
+132471,can i pay my postpaid bills through amezon pay,billing_subscription_dispute,0.9,False
+179478,Mind-blowing deal! : Sorry guys. Never wanted to troll you. But this doesn't look good. Why don't you check this out? <URL>,general_complaint_other,0.9,False
+513452,"this is the 4th vinyl album I received that is warped! What’s going on in the warehouses and/or shipping? It’s frustrating to have to constantly return. You have a great return policy, but the time is the frustrating part.",delivery_shipping_issue,0.9,False
+1093305,by the side of the sellers! Thanks froma let down BUYER. Tried 4 TIMES to demonstrate how incorrect was a seller and YOUJUSTDONTCARE,general_complaint_other,0.9,False
+2397220,"Hey slack chaps , how come my package which was out for delivery yesterday *may* not now arrive until 20th?",delivery_shipping_issue,0.9,False
+2630065,"very bad and poor customer service by mane india, respose are robotics, prime is of no use, deliveries takes weeks",general_complaint_other,0.9,False
+689220,"hello. I ordered 4 books off you, and it said 4 books were out for delivery- but when they were delivered there were only two books. Help! <URL>",delivery_shipping_issue,0.95,False
+287993,Why ru charging 4 Prime Service when u can't deliver on promised time its Getting bad to Pethatic <URL>,delivery_shipping_issue,0.9,False
+1678602,"My order is delivered till today, im keeping asking this to the customer care rep's, they arent answering at all",general_complaint_other,0.9,False
+1850376,What happened to - where are the good old days of outstanding customer service? #amazon-fooling-around customers.,general_complaint_other,0.9,False
+1450851,"hello, can I have the uk fax number please?",general_complaint_other,0.9,False
+16796,"@<PHONE> faulty pc. the pc. returned but no refund recd. till now, got mail refund will be made in 5 days, bt not done. <URL>",refund_return_dispute,0.9,False
+1135958,Credit where credit is due. 10 out of 10 for customer service guys x,positive_feedback,0.95,False
+2444008,Frustrated beyond belief not being able to change my password!! Not cool.,account_access,0.95,False
+2545435,"Getting: ""Account locked Your account has been locked..."" when trying to access my account nor have the instructions emails. Please assist with this annoying situation.",account_access,0.95,False
+247057,"bunch of useless. I was waiting delivery 4 today, been all day at home and I had an email saying delivery attempted no1 at home",delivery_shipping_issue,0.95,False
+644829,I am disappointed with the fact that you don't send bookmarks with the books purchased on your website,general_complaint_other,0.9,False
+2230039,Ohai your on-ground executives are lying to your faces and I have proof. Get your shit together,general_complaint_other,0.9,False
+1390669,paid for next day delivery and it didn't come yesterday? Please can you inbox me to tell me if it's coming today thanks,delivery_shipping_issue,0.9,False
+2111062,as a #primemember I’ve had to call customer care 3 times in the past 2 weeks for messed up orders. #dobetter,account_access,0.9,False
+527634,disgraceful service. Parcel delivered to local Pass My Parcel supposed to give me bar code to pick up. No bar code😡,delivery_shipping_issue,0.95,False
+436957,", I DON’T like that you have your own delivery guys now. They can’t get into my building so I HAVE to be home. Pain in the ass.",delivery_shipping_issue,0.9,False
+1955325,"Is this why I pay for Amazon Prime, ?? FIVE DAYS and you have a mega depot less than one hour from my house... <URL>",delivery_shipping_issue,0.95,False
+476199,Got my Nikki Bella Samsung J3 phone case today from <URL>,positive_feedback,0.9,False
+971805,"the new UI is abysmal. Fire the designer. Ex: scroll left on episodes, go 1 too far and exit out. Really?!",digital_service_device_support,0.9,False
+2825558,hello sir need help,general_complaint_other,0.9,False
+2281412,"Shameful act from , first told my order is delivered and i have signed but not received then says it was error thn delivery was 24 and its 26 no delivery no call, cheating India 🇮🇳 #amazonshame",delivery_shipping_issue,0.95,False
+2313398,"Another day, another delivery that didn’t show up as promised. *sigh* <URL>",delivery_shipping_issue,0.95,False
+167972,I’m literally furious at 😡,general_complaint_other,0.9,False
+69937,Please give accurate delivery date. I ordered a product by paying 100 INR as delivery charges for assured one day delivery. I did not received my product yet. Customer care is giving false promises. This is not the first time I am facing this issue. Can I have solution?,delivery_shipping_issue,0.95,False
+351787,"Product good but delivery bad. Should this not be in the review? Where You don't do the delivery, people need to know.",delivery_shipping_issue,0.9,False
+2748346,I was looking forward to my Amazon order all day. But some asshole stole it mid transit. Fuck you and I hope karma gets you back. 🖕🏼🖕🏼🖕🏼,delivery_shipping_issue,0.95,False
+1630227,delivery attempt??? I WAS HOME!! So annoying,delivery_shipping_issue,0.9,False
+1404017,I live my Kindke but hate that I have to replace the whole thing instead of changing battery- lose downloads each time,digital_service_device_support,0.9,False
+856623,A product was released on Oct 18 by placing order . Still no buyers pls help !!,general_complaint_other,0.9,False
+2230304,Why you loot consumers by charging more for a product than mentioned MRP?,marketplace_seller_trust,0.95,False
+502399,"when i select for my delivery to arrive today and it still isn’t out for delivery apparently, yet says it’ll arrive today between 7am and 10pm.. running out of time then🙄😩🤔",delivery_shipping_issue,0.95,False
+366514,shut ur app if u cant handle it. trying to add money since yesterday but still 0 balance n bank has charged. ??,billing_subscription_dispute,0.9,False
+2624879,Hi. I think my account has been frozen for some reason?,account_access,0.9,False
+2514694,why does CEO hide behind Lorraine who gives poor service. Parcels being left on pavements and she doesn’t think theres a problem?,general_complaint_other,0.9,False
+1124960,Amazon is officially dope for delivery it shows how far the driver is and how many packages they have to do before you 👌👍👍 #Amazon,positive_feedback,0.9,False
+2307371,"Placed an order on . Got redirected to an error page. Cart is empty. Go to my Orders, no order. Go back to a product, and there's a banner at the top saying I purchased the item today. Click on the ""View this order,"" end up on an error page. /shrug",general_complaint_other,0.9,False
+1986305,can u help 2 replace my order as recvd damaged also I have cancelled 2nd order but still refund not credited even after 10 days,delivery_shipping_issue,0.9,False
+460009,I’ve ordered two things from on two separate days and both packages are delayed 1 was supposed to be here yesterday and the other today 😡😡😡this is a complete mess you guys are messing with people’s money and time,delivery_shipping_issue,0.95,False
+770922,"Shout out to for such amazing customer service! ""Turtles All the Way Down"" will be delivered after my original package was lost 👏👏",positive_feedback,0.9,False
+1143141,Me: trying to get the money that amazon stole from me back,billing_subscription_dispute,0.95,False
+2942062,"please improve packaging. Raised a complaint for my last order also. This time also the liquid was leaked. Comparatively lesser than the last order. If no improvement in packaging, I should stop buying. <URL>",delivery_shipping_issue,0.9,False
+684810,Ordered an item from #Amazon. Was told it was sent to the wrong sorting centre so would be delayed up to 1 week. Called today to cancel it. Woman said she would give full refund. Now #AmazonUK forcing me to take a replacement that I never agreed to! They're mad.,refund_return_dispute,0.9,False
+622551,"When you come home to an absolutely sodden, ruined parcel. I’m actually fuming 😡😡😡😡😡😡😡😡 <URL>",delivery_shipping_issue,0.95,False
+1266413,@ hi had purchased from amazon and i return back but its more then 1month i had not received my cash back...what to do ...,billing_subscription_dispute,0.9,False
+1578761,"Great work . Assured our Prime delivery would arrive before 10pm, now told its not coming, a birthday ruined. thanks",delivery_shipping_issue,0.9,False
+2149513,"Your delivery is really slipping. Aug 20 xbox1x launch day order was supposed to be here yesterday, instead on truck for today, and now ""A carrier delay has occurred"". And this isn't unusual for my recent orders.",delivery_shipping_issue,0.9,False
+420978,"Issue in my nw iPad, If I ask for return they say 10 days return policy, but I couldn't do as i was in outstation not happy Amazon",digital_service_device_support,0.9,False
+2176413,hello ! Could you give me a contact email? thanks,general_complaint_other,0.9,False
+2552270,". is becoming a joke.Every order, they seem to have a problem with my address.Then,mysteriously,they 'attempt delivery'",delivery_shipping_issue,0.9,False
+2642047,Help! I accendently bought a book on my not sure how I did it. What can I do???,general_complaint_other,0.9,False
+49994,THIS DEAL DIDN'T START -_- <URL>,general_complaint_other,0.9,False
+1373181,"Hey your ""Amazon logistics"" is terrible. 8am till 9pm delivery and then delivered to the wrong address and signed for a wrong name",delivery_shipping_issue,0.95,False
+435638,who's actually delivering my package? My ref; AY<PHONE>GB is not valid with RM yet Amazon says RM delivering it.,billing_subscription_dispute,0.9,False
+900892,"So much for Prime. Last week, driver left my pkg at a random apartment. Today, order I placed 9 days ago is further delayed.",delivery_shipping_issue,0.95,False
+764124,I can’t find an option on the website to return a book that I haven’t actually received.,delivery_shipping_issue,0.9,False
+1024288,. nothing but disrespect for MY oyster crackers <URL>,general_complaint_other,0.9,False
+2979675,why was my order broken up into so many separate boxes? 4 of them came from the same distribution facility,delivery_shipping_issue,0.9,False
+2456118,issue with the refund...worst service encountered ever,general_complaint_other,0.9,False
+2896000,your order dates are really messed up right now. <URL>,general_complaint_other,0.9,False
+1123583,Pathetic delivery service of Amazon in Pune....Order reached warehouse on Oct 11 and still not delivered till now....,delivery_shipping_issue,0.95,False
+1181623,"Not sure who dropped the ball, or but my preordered copy of #BAOT still ain't here and I'm bumming.",delivery_shipping_issue,0.9,False
+1391151,"My Kindle screen is bust. Are you able to fix it? If not, know of anybody who can? I will love you forever if you can help 😘 <URL>",digital_service_device_support,0.9,False
+2767506,why are you running this twitter handle when you people are not helping your customers and only misguiding them,general_complaint_other,0.9,False
+2470952,Hey I got 2/3 parcels !! ThankYoU,positive_feedback,0.9,False
+279149,How am I supposed to present a gift so shoddily wrapped? Looks so obligatorily done. Kuch toh lihaaz karo. It bears your name. <URL>,digital_service_device_support,0.9,False
+2260667,"Today is the first time I have ever been disappointed with . Never again will I buy a digital download from them. ""Pending Verification"" for payment after I don't know how many times I have paid before is asinine. #NeverAgain",billing_subscription_dispute,0.95,False
+2689365,any idea where my package is? It's not at the only #3 nearby.... <URL>,delivery_shipping_issue,0.9,False
+2836979,just deleted ur app...such a bad service..u people r making fool..why dont u shut urself if u dont want to do business.,general_complaint_other,0.9,False
+2457180,. this is the 5th time I'm experiencing this - package hasn't been delivered but marked as delivered and also says signed by the reciever. I'm disappointed that despite reporting multiple times Amazon is not correcting this.,delivery_shipping_issue,0.95,False
+2626978,don’t understand why it’s so difficult to get help from customer service..I may have a heart attack from so much stress 😓 #sendhelp,general_complaint_other,0.9,False
+2285259,"Got this in todays delivery from #Amazon . Broken screw, and damaged bowls. Hopeless paper packing . They took extra delivery charges for these. Hope we get the refund soon , Order No : <PHONE> #consumerprotection <URL>",delivery_shipping_issue,0.95,False
+2078628,Don't know whats going with . Back to back disappointment even after paying for prime delivery service. Very disappointed with it,delivery_shipping_issue,0.9,False
+336184,I’ve been a loyal Prime member for many years but the days of reliable 2 day shipping appear to be over along with personable customer service. Very disappointing. Unreliable USPS shipping needs to go and bring back USA based customer service.,general_complaint_other,0.9,False
+232441,"such a crap service, order still in transit even after paying express delvry, u ruined the srprise I will cancel d phn",delivery_shipping_issue,0.95,False
+521639,"I paid for two day shipping on TUESDAY. Still have no package, how can you charge 10$ for shipping but not hold up to it? My package better be here tom bro",delivery_shipping_issue,0.95,False
+267309,"You guys have the wrong image on this product. It was correct, now wrong. <URL>",marketplace_seller_trust,0.9,False
+23961,paid my yearly prime fee and my next order I get a delivery attempt sms even though I was waiting at the address. Not impressed!,billing_subscription_dispute,0.9,False
+633613,When email to say your parcel is in a safe place but leave no note and I can't find it anywhere 🙄🙄,delivery_shipping_issue,0.9,False
+1453762,I HAVE ORDERED DSLR CAMERA WORTH RS. 21000 RS.AND THEY SENT ME BROKEN SPEAKERS WORTH 500 RS INSIDE THE DELIVERY BOX..,delivery_shipping_issue,0.95,False
+99954,I was in Customer Service chat with Raghu. He was unhelpful and abruptly ended chat without solving issue. This is unacceptable,general_complaint_other,0.9,False
+2508092,hi! Have an issue. Have been trying to call customer service but line keeps getting disconnected. What should I do?,account_access,0.9,False
+765723,"my partner and I have had two deliveries ""undeliverable"" in the last week because our address is ""invalid"", but we've been ordering to this address for the last 2 years. One delivery was a lightning deal so can't even reorder.",delivery_shipping_issue,0.9,False
+2345575,when spigen is going to launch cases for OnePlus 5T?,general_complaint_other,0.9,False
+1775060,That moment when claims they delivered your preordered One X & it's nowhere to be found 😔serious disappointment #thanksAmazon,delivery_shipping_issue,0.95,False
+1730174,this was left in the hallway of our flats with no info for who it is for! Can you help? <URL>,delivery_shipping_issue,0.9,False
+1333581,"Your own delivery service is terrible! 4 days for prime packages. Packages thrown in bushes, left outside of apartment buildings.",delivery_shipping_issue,0.95,False
+141042,"i ordered two products as xmas gifts which arrived today and they’re in terrible condition considering they’re meant to be brand new, how can this be rectified please?",delivery_shipping_issue,0.95,False
+2693929,we ordered a camera and received an EU plug rather than UK plug. Emailed customer support and got referred to Amazon Chat. An hour later and still not resolved. Very poor customer service and total lack of understanding. Please help.,delivery_shipping_issue,0.95,False
+1399868,I am not angry but very disappointed by you guys. I paid what you ask but didn't get Product which you mention on website. Please do needful,marketplace_seller_trust,0.9,False
+1683553,hi I need to send a message about my account being accessed by someone unknown and details changed so I cannot login.,account_access,0.95,False
+1666237,Hey if my order from 11/17 hasn’t shipped YET how will it arrive by Monday? <URL>,delivery_shipping_issue,0.9,False
+114443,1/2 2 times i order from amazon & it never even shipped. i contacted cc multiple times & always they told me it will never be happen again.1st time i order moto g5 phone & 2nd time fan heater. it was so frustrating . i had to cancel my 1st order & take it from flipkart,delivery_shipping_issue,0.95,False
+2685188,can you tell me why I have to pay postage when it clearly qualifies for free posting? <URL>,billing_subscription_dispute,0.9,False
+418803,why i can't login to Amazon?? hhhmm cc: <URL>,account_access,0.9,False
+2766382,"come on guys, is there a reason that my order is still out of stock after a month",delivery_shipping_issue,0.9,False
+939543,What is your beef with Android TV’s?🙄,digital_service_device_support,0.9,False
+2273416,"36 hours after release, and I'm still waiting for a code in a box to arrive from for my PREORDER of #sims4catsanddogs ... 🙃🙃🙃 WHY NOT JUST EMAIL IT I'm so mad",delivery_shipping_issue,0.9,False
+1240372,I can't believe it has happened a third time. Again my order was incorrectly delivered today. What sort of service is this?,delivery_shipping_issue,0.95,False
+349900,"disgraceful. Sent defective item. Phoned 3 times, hung up on twice and told Amazon don't know nothing about this go to maunfacturer.",delivery_shipping_issue,0.9,False
+1356265,Just had a package left on my doorstep out in the open. I was home but nobody rang the bell/knocked on the door. Not acceptable!,delivery_shipping_issue,0.95,False
+118745,Hello & We need an escalation of a fraud case. Someone is using our personal information and getting assistance from you is incredibly frustrating,general_complaint_other,0.9,True
+845710,"I have ordered an item delivery guaranteed by today Oct the 20TH with my prime shipping, GUESS WHAT? Hasn't even shipped yet",delivery_shipping_issue,0.95,False
+2408770,when will you Launch prime music in india... It's becoming hard to find my fav music on my echo dot through voice or in alexa app😒😒🤦🤦,digital_service_device_support,0.9,False
+120232,Why would Belgian customers pay for #Prime Video if we cannot order the Fire TV Stick and the Prime Video app doesn't support #Chromecast ? #fail #AmazonDE <URL> <URL>,digital_service_device_support,0.9,False
+65655,IN hello jeffBezos can you help me with the patethic service of amzon india .wrong products sent and return pick not done <URL>,delivery_shipping_issue,0.9,False
+2503572,Still not received my refund from the 27th of july. I have made a complaint to the financial ombudsmen. Maybe the sun can look into Amazon for us customers that are getting ripped off and not getting refunds!,billing_subscription_dispute,0.9,False
+2708428,"Find it baffling that I have Prime, ordered something on next day delivery on Wednesday and it still hasn't arrived. Customer services have been pretty useless.",delivery_shipping_issue,0.9,False
+486645,someone hacked my account and changed the email address so now I can't login. Your customer service rep told me to change my password which I can't do... help?,account_access,0.95,True
+2728890,Love it when packages arrive early! Meet my new friend y'all! 🎉🎹 #yamaha #musicing #AchievementUnlocked <URL>,positive_feedback,0.95,False
+1395053,over 6 crore products but not a single braille watch so that I can gift to my sister this Diwali. 😭 #supportblind,general_complaint_other,0.9,False
+2284876,"Until I can select my package carrier, I am no longer buying anything off of Amazon... So many orders were returned or had to be canceled due to the carrier being unable to deliver to the given address. I have wasted so much money and time. Why is this not an option?",delivery_shipping_issue,0.95,False
+1358097,I forgot to cancel my Amazon Prime trial before the 30 days now I was charged. Looks like I’m buying everything on amazon for a year 🤷🏻‍♀️,billing_subscription_dispute,0.9,False
+827562,balant fraud being done . Clearly shows that the product is available with Cloudtail India only but the offer doesn't get applied <URL>,general_complaint_other,0.9,True
+2855115,Your service lvls have gone down hill really badly. I received the worst customer service from you guys the other day on a v simple issue. Chats and calls with 5 different reps & still no resolution. One even ended the chat on me saying they can't escalate! WOW.,general_complaint_other,0.9,False
+1523995,Anyone know how to get rid of this book. It's one of the free new prime books. I cannot delete & stays queued been there ages. 😕 <URL>,digital_service_device_support,0.9,False
+847812,"you canceled an order by mistake N nw after 5 dys of comm. with ur staff over email, received cash back. but again can't reorder",account_access,0.9,False
+1363463,if amazon is not able to deliver any product on time why there is options available like Guaranteed delivery within 1 day,delivery_shipping_issue,0.9,False
+2620992,you really need to fix your site. It said I had 1 hour to place my order to get same day shipping. I went to add something else to my basket and it changed my delivery option to tomorrow. That's not fair.,delivery_shipping_issue,0.9,False
+1495592,This was long due. High time also focusses on seller issues & works towards making their policies seller friendly. <URL>,general_complaint_other,0.9,False
+883035,how do you change the brightness on the Kindle app for iPhone?,digital_service_device_support,0.95,False
+1197326,"Hi, it is disrespectful how you make customers to sign up for Prime Free Trial Membership. I want to CANCEL asap, please.",billing_subscription_dispute,0.95,False
+895929,so what’s going on with Prime. Been rubbish for ages but order today and get on Tuesday isn’t really next day delivery is it! <URL>,billing_subscription_dispute,0.9,False
+921178,can u plz have screening capability on amazon video?,digital_service_device_support,0.9,False
+929704,Diabolical service from - one day delivery still not here after 2 and a half days #amazon #poorservice,delivery_shipping_issue,0.95,False
+2422637,"How dare you BLATANTLY steal my copy of Ittle Dew 2+ for the Switch!? The plastic wrap was off my game, and all I got was a manual!!! I'M ANNOYED RIGHT NOW! 💢💢💢😡😡😡",marketplace_seller_trust,0.95,False
+2342074,Cheated with 0% EMI. Amazon shows 2832.50 as EMI and Kotak charges 3051.86 on card. Oh and GST is extra,billing_subscription_dispute,0.9,False
+122761,err...I arranged all my items to come on Friday when imnot at work! Why u delivering one 2moro?! So pissed off!! <URL>,delivery_shipping_issue,0.9,False
+2677869,Transactions made through takes more than 2-3 hours to get processed. Just want to know the reason,digital_service_device_support,0.9,False
+1791714,"I keep getting daily emails about my product reviews on your site. Small problem, I’ve never written one. Fraud?",general_complaint_other,0.9,True
+29533,you really need to sort out your customer service!!! 5 phone calls and I'm still banging my head against a brick wall.,general_complaint_other,0.9,False
+1568781,what kind of service.no cash back & reply from last 1 yr.submitted all proof documents but still Amazon does not bother to reply.,general_complaint_other,0.9,False
+126757,I think someone got into my account as I got this email and can no longer sign in. How can I change this? <URL>,account_access,0.95,False
+1234113,Definitely need to call tomorrow about their fresh food feature.,general_complaint_other,0.85,False
+1252005,"Buy nokia 6 from you from my amazon pay balance but didn’t get cashback of ₹1000 yet, calling u from last 1 month.",billing_subscription_dispute,0.9,False
+401598,all offense......where are my her albums already,general_complaint_other,0.9,False
+1532173,The language barrier with your CSR’s SUCKS! I have called 4 times talked to 4 different people who can’t understand shit I say!,general_complaint_other,0.9,False
+2279102,Almost 10 days passed not got the replacement against damage product. Pls help order no <PHONE>,delivery_shipping_issue,0.95,False
+587931,"And what's worse is there is no way to get to fix this problem or care. All you get is an ""I'm sorry"" or told maybe you misunderstood the shipping information.",general_complaint_other,0.9,False
+290410,I m wondering since when Amazon has adopted late delivery policy. Since Oct 4 item is still not dispatched... Ordering on is mistake,delivery_shipping_issue,0.9,False
+2869570,I need to know who delivers for Amazon and why my package was in the middle of my lawn?!,delivery_shipping_issue,0.95,False
+1730703,"I ordered this for my upcoming travel, opened the box to see this. Not safe. Traveling 2mrw, now it's too late 😞 <URL>",marketplace_seller_trust,0.9,False
+2879444,"so if a NEXT DAY amazon prime takes 3 days, how is this different from standard free delivery and what am I paying for ??",billing_subscription_dispute,0.9,False
+2107221,So far has only lost 5 packages of mine this holiday season - not good. Everyone I talk to has a different story with “we have a lot of new people” as the most popular excuse. #Amazon #JeffBezos <URL>,delivery_shipping_issue,0.9,False
+1354469,"after Amazon misplaced my order twice. between both times they gave me $10 and $15 store credit. those are both gone now, help?",billing_subscription_dispute,0.9,False
+1773275,So not cool ! I am furious! Your carrier left my $500 Project Scorpio on the wrong porch! And some other poor saps order too! My wife had to go find it by walking down our street!,delivery_shipping_issue,0.95,False
+2121011,Hi my account is meant to be closed but im still getting emails about prime payment issues?,billing_subscription_dispute,0.95,False
+679059,Purchased a shoe from and with it comes a letter that degrades them. Called customer care of 7 times but no resolution <URL>,delivery_shipping_issue,0.9,False
+233095,"Getting very frustrated with and their AMNZ delivery service. Never delivers same day, lost packages, just worthless.",delivery_shipping_issue,0.9,False
+973548,"I want my money refunded in my bank account, help me with this.",billing_subscription_dispute,0.9,False
+2281073,Would Amazon price match a deal on Amazon fresh with a code? As Amazon fresh is not available in my area :/,marketplace_seller_trust,0.9,False
+2028479,I just cancelled all of my Subscribe & Save subscriptions due their new delivery service.,billing_subscription_dispute,0.9,False
+93494,I don't understand why I pay annually for prime shipping when 3/7 orders don't even arrive on time?? I feel like I'm expecting these delay emails now 🚫 is this happening to other people? <URL>,delivery_shipping_issue,0.9,False
+2414504,"If you live in an area small enough to NOT have delivery, consider yourself lucky. Every time I see them as the delivery method instead of , , or , I just cringe. #fb",delivery_shipping_issue,0.9,False
+2746073,"My 2 packages of cookie mix came open & leaking mix yesterday from my order, what should I do? <URL>",delivery_shipping_issue,0.95,False
+2523376,Hey I clicked on Prime by accident & then cancelled can you make sure I am not charged please,billing_subscription_dispute,0.95,False
+887134,so try to sign up for an free trial on prime and it automatically asks me for £79 or £7.99 a month?!How is that a free trial?,billing_subscription_dispute,0.9,False
+384741,I was wanting to pre-order a blu-ray direct from Amazon UK but it says that Amazon won't ship it to N.Ireland (part of UK). <URL>,general_complaint_other,0.9,False
+2808376,"Seriously , if I have a baby, could be dead from hunger. <URL>",general_complaint_other,0.9,False
+1011670,I get this message every time I re-log in to cancel amazon prime. I need to cancel by today <URL>,billing_subscription_dispute,0.9,False
+2067287,For the first time since 2005 I am disappointed in Amazon. Ordered an item for prime delivery and when I checked eta not arriving for another 2 days. Basically got told sorry but tough. Normally great customer service. Hope this isn’t the future 😢,delivery_shipping_issue,0.9,False
+984273,rejecting my review because I haven’t spent £40???? <URL>,general_complaint_other,0.9,False
+109777,why does our stuff keep going missing from the littlehampton delivery truck. It's been twice now,delivery_shipping_issue,0.9,False
+394041,"why offer a prime free trial with next day delivery then your item fails to show up, not a #goodstart is it?",delivery_shipping_issue,0.9,False
+2067612,Ordered a product on 7Oct paid thru AmazonPay Cashback still not received as promised in 5days even contacted CustCare 5times.,delivery_shipping_issue,0.9,False
+409658,"If Amazon would just send my packages through ups I'd have them already, the new Amazon delivery drivers are slow asf 😅",delivery_shipping_issue,0.9,False
+667272,why ? your content is very poor. you should increase the content atleast <URL>,general_complaint_other,0.9,False
+2314263,"I’m confused where my delivery is. App says “delivered”, handed to resident yesterday - with email after saying failed delivery attempt as no one in. Second attempt today with email saying couldn’t locate my delivery address?",delivery_shipping_issue,0.9,False
+1164629,please explain how your employee failed to deliver/lost/stole my packages 3 days straight & I'm a PRIME MEMBER!!!,delivery_shipping_issue,0.95,True
+1137727,Can u pls help in collection of a return pick-up order of which was delivered using ur courier service. 1/2,delivery_shipping_issue,0.9,False
+58747,Yet again JMHC fail to deliver my parcel yet claim they attempted to at 6:28pm! Why do I pay for Prime when orders never reach me?,delivery_shipping_issue,0.95,False
+1252166,Can I transfer money from pay balance back to bank?,account_access,0.9,False
+2483745,Thank you for screwing us over yet AGAIN for our Sunday delivery service from #Amazon! Ordered work boots for Mon and now screwed!,delivery_shipping_issue,0.9,False
+1526904,If I cancel a purchase made with a visa gift card before it was shipped when will I get my money back?,billing_subscription_dispute,0.9,False
+2837070,I'm planning to buy for mom. Do you have Kannada books collections?,general_complaint_other,0.9,False
+2533536,Helpless now Order # <PHONE> Jst saying escallations are going on. Almost #20days. Some1 plz help🙏,general_complaint_other,0.9,False
+1768938,Daily chats with CS rep wasn't sufficient to get the problem solved and phone rep has no idea why chat reps couldnt solve :(,general_complaint_other,0.9,False
+124067,ordered a gift last Friday for a baby shower this weekend but it never arrived 🚨🆘 Prime has failed me.,delivery_shipping_issue,0.95,False
+223920,Your site's Contact Us options are bad. It won't accept my order number to report an Order Related complaint #CustomerExperience,general_complaint_other,0.9,False
+1190271,Order# <PHONE># worst customer service#fraudulent# return pick up completed but amazon claiming that they havent received# having acknowledgement slip# need help !!!!!!,delivery_shipping_issue,0.9,True
+1775025,"Amazon Prime failed to deliver my package in the promised time. The world is really ending, y’all!!!!",delivery_shipping_issue,0.95,False
+799678,"can you advise me, why, an item i bought on the 16th hasn't even been dispatched yet, The final date of delivery is tomorro",delivery_shipping_issue,0.95,False
+2891806,It would seem my local 3PL Amazon delivery man knows what Hannah’s getting for Christmas. Disgusting. <URL>,delivery_shipping_issue,0.9,False
+1378496,So... did our delivery driver just take our food home with him?! <URL>,delivery_shipping_issue,0.9,False
+1599261,"Dear Amazon, you let me down big time. I bloody had to leave my house to go get my food colouring. #Heinous #IPayForPrimeDangIt",general_complaint_other,0.9,False
+834794,Hey! Do you deliver at this pincode - 457661??,digital_service_device_support,0.9,False
+1212221,just received this never had an amazon account can you confirm this is spam ? <URL>,general_complaint_other,0.9,False
+832692,. please respond to DM if possible 🙏🏻,general_complaint_other,0.9,False
+472424,#AmazonRechargesQuiz where is a winner list today Dec 1st,general_complaint_other,0.9,False
+782476,"service is disgusting ,last 2 days my product is out for delivery I called more than 10 time in last 2 days still no resolution.",delivery_shipping_issue,0.9,False
+268678,if I have prime why can’t I watch #TNFonPrimeVideo,digital_service_device_support,0.9,False
+1234092,my parcel said it was delivered and signed for by me yesterday but i wasn't in. I can't find the parcel - can you help please?,delivery_shipping_issue,0.95,False
+2692677,amazon india displaying fake hiked prices and then giving discount to attract customers. These headphones have a orginal price of 3499 and they show 6499!!! <URL>,marketplace_seller_trust,0.95,False
+1050701,I have not received Order Id: <PHONE> Still I got the SMS & email stating I received it. #AmazonGreatIndianFestival,delivery_shipping_issue,0.9,False
+1770517,is your customer service number mnothing but advertisements or something? Like...im trying to get a hold of customer service & all i get is advertisements.,general_complaint_other,0.9,False
+2489013,I have just received an email (see attached) to say delivery was attempted. But I am sitting at home in my lounge. I live in flat & when my buzzer goes it makes me jump. Can be heard next door. I have had no attempts at all this evening <URL>,delivery_shipping_issue,0.9,False
+823589,"I have stopped buying from U as you have not integrated module on payment page, d simplest epayment so far",digital_service_device_support,0.9,False
+294778,hello I have been waiting for an account specialist to be in touch with me for 2 years now ☺,general_complaint_other,0.9,False
+2601477,I would like to complain against the delivery agent. He called me and I told him I’m home and 2 mins later it says delivered but no one came to my house <URL>,delivery_shipping_issue,0.9,False
+91722,I have a gift card but that is not useful for me as I am outside us and your import charge is too high and have similar kind of thing in very lower amount help me with this. Can you transfer it to,billing_subscription_dispute,0.9,False
+1727213,Hey I preordered my #Hacks book and It's still not loaded in my library. When will it be there,digital_service_device_support,0.9,False
+520686,I'm unable to activate the Yipee Noodles Amazon pay balance gift card. Help pls.,digital_service_device_support,0.9,False
+2973804,"Shit been out for delivery since 7:57am...& I ordered this shit Nov 1st WTF KINDA ""PRIME"" Service is this <URL>",delivery_shipping_issue,0.9,False
+1252527,"is there some issue with gateway? I've been not getting my updated balance! Did not receive the cashback I was supposed to, for my last order during Diwali sale. Please help!",billing_subscription_dispute,0.9,False
+407493,"Yo , your driver left this in plain view without anyone giving them permission to do this and the box is SOAKED. Do better! <URL>",delivery_shipping_issue,0.95,False
+340154,How can you promise your Prime members 2 day ship when your carrier makes zero effort to honor promised delivery dates?,delivery_shipping_issue,0.95,False
+2458370,"what is the max number of video that we download for offline viewing of we have a prime account? Pls specify in each Category (ex: movies, tv series, etc;)",positive_feedback,0.9,False
+1521804,. messed up and I’m not getting my St. Vincent record delivered today after all🙃,delivery_shipping_issue,0.9,False
+2192508,A order placed by mistakenly. I cancelled the order. My amazon pay balance showing 0. My balance was 1299. When the amount will show on my balance?,billing_subscription_dispute,0.95,False
+479384,please can you look into this order: <PHONE> I paid for next day delivery and still not received!! I would like (1/2),delivery_shipping_issue,0.95,False
+1565040,Testing out #PrimeNow!,positive_feedback,0.9,False
+2294982,this is the 4th time I get a msg that a package is delivered when it is not. You will be getting sued and complaints filed!!!!,delivery_shipping_issue,0.95,False
+1053607,"Hi, . Am watching , could you please set your #subtitles to 'forced'? This happens on other shows, too.",digital_service_device_support,0.9,False
+852811,Very disappointed with couldn't gift the phone I ordered for my dad on Diwali. No response even after contacting multiple times.,delivery_shipping_issue,0.9,False
+2162173,first time using your service & was supposed to receive order before 7amET. Now 7:20 & need to leave for work. Can you track?,delivery_shipping_issue,0.9,False
+362435,"how do I contact u?Ordered pack of 40 erasers: 3 broken,some poor quality,some the same.Don't want 2 return all of them.Pls help",marketplace_seller_trust,0.9,False
+310793,Well that's done and echo are linked but I can't get her to obey yet.,digital_service_device_support,0.9,False
+118815,today is 23rd November... since when did one-day delivery mean 4 days?! <URL>,delivery_shipping_issue,0.95,False
+914782,"should do something for these irrelevant reviews, perhaps I found on earphone reviews! <URL>",general_complaint_other,0.9,False
+1356269,how do I set up my echo and echo dot? I can't see the Alexa app on the iOS App Store.,digital_service_device_support,0.95,False
+1586178,Tried reaching 2 seller but no response. Delivery pending since 27.09. n whr is ur customer care says no open ord exist #needhelp <URL>,general_complaint_other,0.9,False
+1838912,When mess up on a pre order and don't dispatch it on time 🤦🏼‍♀️,delivery_shipping_issue,0.9,False
+1755078,"its been 3 times in a row,when I get the message that my product has been delivered but in actually the product was not delivered.why such kind of incident is happening i dont know,but its high time to look into this matter. #fraudzon",delivery_shipping_issue,0.95,False
+2850599,"I ordered something to my place of work thinking it would come during the day, instead attempted delivery is happening in the evening? When I've ordered before to home, it comes before I get there. Can I reschedule delivery to a new location, or just pick up myself",delivery_shipping_issue,0.9,False
+235106,What is going on with voice recognition? It's gotten 1 of the last 8 shopping list items right. One!,digital_service_device_support,0.9,False
+540833,I pre ordered your DVD but been horrifically let down by hope you do a live show soon so my little boy can finally get your autograph x,general_complaint_other,0.9,False
+937337,where is my purchase <URL>,marketplace_seller_trust,0.9,False
+2864740,I bought a $200 dollar 12 inch thick memory foam mattress from amazon 6 months ago and hands down best purchase of my life. It’s honestly like sleeping on a memory foam.,positive_feedback,0.98,False
+2593140,So apparently it doesn’t matter if you have an Prime account or not because you won’t get your order as promised and customer service “managers” will still treat you like garbage. Good job!,general_complaint_other,0.9,False
+2483752,"amazon prime is great, except when the wrong product gets sent to you.",delivery_shipping_issue,0.9,False
+1130213,I love online shopping. Christmas shopping is done. Thanks !,positive_feedback,0.98,False
+1137287,Hi I bought something from a 3rd party through amazon. Item arrived broken and inadequately packaged. No response to messages.,delivery_shipping_issue,0.95,False
+884938,"Why does refuse to show products that literally match, exactly, the search phrase entered? Way to make search worthless!",general_complaint_other,0.9,False
+465162,"Ever since moving to California, the wife and I have discovered that 's two day shipping is really just a suggestion, and not a statement of fact. So glad we pay for that service!",delivery_shipping_issue,0.9,False
+2704911,Why are charging me a 'prime fee membership' when I haven't been a prime member in 5 months?,billing_subscription_dispute,0.95,False
+627831,can I buy this product .. as the link redirects 2 app with felix brand and I am looking for Fitbit...da one I googled :... :-( <URL>,general_complaint_other,0.9,False
+1415542,"Ugh. Ordered some charging cords from and a month later it’s quit working. Tried to leave a review and the link to the product doesn’t work. First world problems, I guess. 🤷🏻‍♀️",delivery_shipping_issue,0.9,False
+857768,how do I change US Amazon echo to Indian version?,digital_service_device_support,0.9,False
+2198997,I love #AmazonPrime free 2day shipping! ❤️,positive_feedback,0.95,False
+317500,is it possible to tell Alexa to play an album? When I ask (why play starboy by the weekend) she just plays the title track. TIA!,digital_service_device_support,0.9,False
+2488481,"Hey , whoever does your delivery is lying in their logs. ""Failed delivery"". I was in and no way my dog missed someone at the door!😬",delivery_shipping_issue,0.9,False
+2212038,"Hi , your delivery service sucks. Can you give Prime members a delivery option? At least they know what they are doing.",delivery_shipping_issue,0.9,False
+2446305,amazon package delivery got delayed. tragic.,delivery_shipping_issue,0.9,False
+835111,Requesting Please provide #arjunreddy with subtitles version here my Tamil friends are asking congrats for #50days,general_complaint_other,0.9,False
+2813578,"Hey , could someone from customer service, kindly contact me? Thank you.",general_complaint_other,0.9,False
+1380686,My fire stick has suddenly stopped working! Literally just showing me the amazon logo #devastated,digital_service_device_support,0.9,False
+2702034,really worst experience I had with the delivery boy as he refused to deliver at home and when I asked reason he started abusing.. This is my 2nd instance when I'm cancelling my order with amazon.. don't know why u guys providing this kind of service..,delivery_shipping_issue,0.95,False
+1053533,I ordered one plus 5 and supposed to be delivered today. The agent number given in the text message is wrong and isn't delivered,delivery_shipping_issue,0.9,False
+2377187,I did not order teeth... <URL>,general_complaint_other,0.9,False
+1390705,in real world why so much delay ? that is why you guys do fail the transaction at your end. #ThreeTimeFaild <URL>,general_complaint_other,0.9,False
+2397093,Well... That first package I ordered... No shipping updates in over a week now. It shouldn't take that long to get from a warehouse to an airport/shipment facility. Any advice on what to do? Would you be able to peek backstage for any updates? <URL>,delivery_shipping_issue,0.9,False
+2674996,Dear is adhaar is essential to get a prepaid delivery ?,digital_service_device_support,0.9,False
+1268844,I live in Karimnagar & place orders for my customers & earn through Amazon associates. I've generated more than 500 sales in past 2 months. <URL>,general_complaint_other,0.9,False
+2599755,"pls help me to get the verification code from ""__email__""asap.",positive_feedback,0.9,False
+1431415,will I be getting my postage refunded? <URL>,refund_return_dispute,0.95,False
+1694553,"Order no: <PHONE> is not receiving, everyday it is saying it will receive today. Please look into it.",delivery_shipping_issue,0.9,False
+35166,d worst product i bought frm Amazon.not working proprly <URL>,marketplace_seller_trust,0.9,False
+701334,my prime now order said it wasn’t able to be delivered but I’ve been at home and had my phone on all this time. No call or attempt to contact.,delivery_shipping_issue,0.9,False
+1103658,Thanks for a helpful resolution to my missing package today. Very much appreciated!,positive_feedback,0.98,False
+1486236,Used my free trial of Prime for 2-day shipping. Said package was supposed to arrive today at 8pm. Never did! Thanks Amazon!,delivery_shipping_issue,0.95,False
+1762372,what is the point in prime if you don't get it delivered next day 🙃,delivery_shipping_issue,0.9,False
+2663717,when is Amazon great Indian sell?,general_complaint_other,0.9,False
+1730755,"price fr ths prdct is 999 oly & u r showing 1390 rs just to show 541 rs off. Cheating people, shame on u premium brand.#Unexpected <URL>",billing_subscription_dispute,0.9,False
+2378227,. - the number of emails you have bombarded for #Redmi4 ..! Control yaar!,general_complaint_other,0.9,False
+2899670,I’m still getting charged after promised for a refunded program huh ? I’m loyal to you guys,billing_subscription_dispute,0.9,False
+1337240,Nightmare! When you constantly waiting your Prime order to be dispatched! It's Halloween and I'm getting nervous!,delivery_shipping_issue,0.9,False
+1193934,Hey what’s with CS today? Trying to track down a delayed delivery and am not getting much help.,delivery_shipping_issue,0.95,False
+2905043,I’m fed up with swiping money out of my account.,billing_subscription_dispute,0.9,False
+2293717,"Why is your TV app so shit? Constantly freezing and says “bandwidth too low”. Not too low for or . Has been like this for well over a year. Keep thinking there is going to be a fix, but it ain’t here yet!",digital_service_device_support,0.9,False
+1507241,"Arriving today but it's not been dispatched, don't worry only preordered 6 months ago <URL>",delivery_shipping_issue,0.9,False
+2841888,"Hey order was supposed to be delivered today..order was placed 10 days back, I urgently need my package. <URL>",delivery_shipping_issue,0.9,False
+180754,"Broken product received for order <PHONE> Looking for replacement, cu care was unable to register replace. Do check <URL>",delivery_shipping_issue,0.95,False
+2926404,"Hey , it kinda creeps me out that the delivery guy leaves a package, and takes a pic of it at my house and emails it to me. AND also NEVER rings the doorbell.",delivery_shipping_issue,0.9,False
+2918640,do you find this level of damage acceptable when shipping an item? <URL>,delivery_shipping_issue,0.9,False
+973541,How Amazon India is cheating to customers? <URL>,general_complaint_other,0.9,False
+1760511,it’s now 8.02 pm ... still waiting for my next day delivery from yesterday 😡where is it Amazon?,delivery_shipping_issue,0.95,False
+1318983,I wanted to know about the pricing for subscription in USA and Canada. Need to gift them to my friends there.,billing_subscription_dispute,0.9,False
+380568,"Sometimes I love , they provide one-day delivery even without paying for one.",billing_subscription_dispute,0.9,False
+2927693,"If they do not send me a prepaid label for that broken mchdse., I will start reporting all the facts tomorrow elsewhere. I wasted my Thanksgiving and so much more when I was cheated by Amazon. I spent the night checking label prices, and will NOT pay.",delivery_shipping_issue,0.9,False
+1770234,thanks for a broken tablet and only 15% off something that may not work. Super disappointed just wanted it fixed #wasloyal,digital_service_device_support,0.9,False
+281171,"on 4th,I subscribed to prime and ordered a hard drive as it was urgent.On 5th even without delivery,I get a msg that its delivered",billing_subscription_dispute,0.9,False
+2779157,"is this parcel technically""delivered""? Just as well I was home... #joke <URL>",delivery_shipping_issue,0.9,False
+2805101,Shoutout to for delivering A WHOLE DAY earlier! #itsthelittlethings <URL>,positive_feedback,0.9,False
+134862,I would like to know which courier service tried to deliver my parcel yesterday as I was in all day waiting for it. Now it’s been delayed and might turn up today. Might?,delivery_shipping_issue,0.9,False
+1437381,you have let me down bigtime. Message sent.,general_complaint_other,0.9,False
+2609328,hey I got a mail stating that ur item is out for delivery but there is some problem. Please help,delivery_shipping_issue,0.9,False
+42519,was expecting 2 packages by 16/10/17 - still not received. Ordered 10/10/17. Can you help?,delivery_shipping_issue,0.95,False
+2418886,hi I recently canceled or thought I canceled my prime account and was charged for the full year.. is there a way to cancel that,billing_subscription_dispute,0.95,False
+387516,"bruh now amazon prime took the monthly fee outta my bank account & i have one month amazon prime, loool!",billing_subscription_dispute,0.9,False
+2403020,what’s the procedure to take GST Invoice for an ordered product?,general_complaint_other,0.9,False
+2032925,But why ? What’s wrong in my review? <URL>,general_complaint_other,0.9,False
+1190269,So you want to tell me how Amazon can steal out of your account literally and not get in trouble by the police... <URL>,billing_subscription_dispute,0.9,True
+983766,I purchase Apple iPhone 7+ but I received Samsung guru and Amazon closed my account after this fraud.,marketplace_seller_trust,0.9,True
+2893066,Today has gone to shite. I didn’t receive my package although Amazon said it’s here. Like. It’s seriously NOT. I also didn’t receive the package my parents had sent ON THURSDAY. I hate when that happens.,delivery_shipping_issue,0.9,False
+2986183,Twice now my orders have been cancelled without any reason. Customer care only suggests going to the website. Help,general_complaint_other,0.9,False
+2816350,"you have the steam link on for 19.99, but every time i try to add it to cart it says it's out of stock, despite having it on the site. help?",marketplace_seller_trust,0.9,False
+2310287,if I cancel my amazon prime does my membership get cancelled straight away or does it continue and cancel before the next date that I’m supposed to be charged?,billing_subscription_dispute,0.9,False
+227085,they dont't even know that call should be end with bye or thannks not direct hung up as it happen twice with dealer,general_complaint_other,0.9,False
+229986,mene apke Amazon se powerbank purchase kiya hu abhi delivery nahi hua hai kyu aapke gati courier very late ser so plz cori pater,delivery_shipping_issue,0.95,False
+2984593,"Amazon played me package got delayed until tomorrow, oh well more Christmas gifts arrived though 😬",delivery_shipping_issue,0.9,False
+673216,unable to contact you on call.an enquiry about a product.u people are not conectn to the customer care executive without ordr no.,general_complaint_other,0.9,False
+1479786,"hey, need some help. Please call on <PHONE>",general_complaint_other,0.9,False
+532693,"hello,I have received my order but as you can see it is already opened and the cd ""who built the moon"" is missing, customer service have reordered it for me,either it's been opened deliberately or the seal has failed and the cd has fallen out <URL>",delivery_shipping_issue,0.9,False
+1293024,is really fucking w my money 🤦‍♀️🤦‍♀️🤦‍♀️🤦‍♀️,general_complaint_other,0.95,False
+343872,"Worst service from, 18days not yet shipped and finally customer service told to cancel and reorder, no policy to register complaint <URL>",delivery_shipping_issue,0.95,False
+183658,I am not the BETA Token bae I perceived I was? <URL>,general_complaint_other,0.9,False
+448627,Shout out to for having some exceptional costumer service,positive_feedback,0.9,False
+1371442,"So needs to stop advertising 2 day shipping with Prime. Pretty sure that's merely a suggested ""2 day"" shipping these days.. #fail #6days this time.",delivery_shipping_issue,0.9,False
+1258213,not able to check out with exchange despite the product page saying so. Help,billing_subscription_dispute,0.95,False
+2823982,"hey since ive gotten zero response to my seller account issue, you can now close my seller account... <URL>",general_complaint_other,0.9,False
+210410,Prime member - ordered 2 items yday to my old address. Moved last week. What can I do? Can’t cxl order & no shipper info on site,digital_service_device_support,0.9,False
+1480122,how badly damaged does something have to be for this? Left us completely stuck :( <URL>,delivery_shipping_issue,0.9,False
+1449158,you're charging more than the printed MRPs. Do you know I can pull you up in court for that ?,marketplace_seller_trust,0.9,False
+735061,Seems like there's a bug in your app. Show's a product in stock and then does not allow checkout. Do check. Am I doing something wrong? (I did checkout within 15 minutes of adding the product. See time on the screenshot) <URL>,digital_service_device_support,0.9,False
+386161,"No words 2 describe 4 proactive services, support, satisful customer experience. M delighted Everytime I use 4 my needs.",positive_feedback,0.9,False
+1065649,"Hi, I purchased an item and had chosen the EMI option. But my CC bill has the full amount. Kindly help.",billing_subscription_dispute,0.9,False
+2677405,noticed some changes on your website. Content looks bold and highlighted- that's good. But few things annoying like- too YELLOW <URL>,general_complaint_other,0.9,False
+657978,"I don't think I've received a package in worse condition. It's literally open. , 🤔 <URL>",delivery_shipping_issue,0.95,False
+2871610,"And in another moment of wtf packaging, thanks Amazon for making sure this useless piece of paper is here with absolutely 0 packing otherwise <URL>",delivery_shipping_issue,0.9,False
+740932,got dis defective addidas shoe #worst quality <URL>,delivery_shipping_issue,0.9,False
+791501,Hey we desperately need user profiles for Fire TV. Anyone and everyone at home is using it and spoiling the experience,general_complaint_other,0.9,False
+263436,how does a product get so many 5 star reviews while the 1 star reviews are flooding in? #fakenews #fakereviews <URL>,general_complaint_other,0.9,False
+150589,I ordered a £200+ phone from and they sent me a £6.50 500ml shower gel instead... Either someone else has received my item instead of theirs or the staff at Amazon's warehouse are incompetent. It's not like they're 2 similar looking items!,marketplace_seller_trust,0.9,False
+2361853,is this legit? I don't think it is <URL>,marketplace_seller_trust,0.9,False
+2726803,None of your customer service number is working and unable to get a call back. Pls help received a damaged product. . order #<PHONE>. <URL>,delivery_shipping_issue,0.9,False
+446082,"Hey , when I pay for same day delivery I expect things to get here the same day. Now can I get my shipping $$ back?",billing_subscription_dispute,0.9,False
+836833,i hv ordered echo dot bt i hv prime membership already. so the one with echo dot will be useless ?,billing_subscription_dispute,0.9,False
+2852083,attached pics clearly showing the fraudulent by amazon. <URL>,general_complaint_other,0.9,True
+1451491,"Hey , If I order now 2 day shipping should mean it arrives Monday, not Tuesday.",delivery_shipping_issue,0.9,False
+839427,Why isn't available on ?,marketplace_seller_trust,0.9,False
+457788,Where in the hell is my package… It’s been four days and I have prime membership!!!,delivery_shipping_issue,0.95,False
+166373,"hey guys, I realise things get squashed during deliveries, but an item has came out of my parcel... What can I do? <URL>",delivery_shipping_issue,0.9,False
+25008,your Amazon pay offer is more complected than GST and thats all a bundle of crooks.,general_complaint_other,0.9,False
+1378480,you made me update the billing info and shipping and still sent to my old address and it’s already delivered <URL>,delivery_shipping_issue,0.9,False
+352122,Just found out that my Halloween costume will be delivered on Friday the 13th 😯 how convenient of you,delivery_shipping_issue,0.9,False
+911512,worst shopping website they make people fool.there offers and deals are fake never do shopping from #delhi #india #usa,general_complaint_other,0.9,False
+1421266,on the top of that u ppl dnt generate complaint id so everytime i have to start from scratch!! What the hell!! Pathetic service!!,general_complaint_other,0.95,False
+210426,I pre ordered Star Wars battlefront 2 and I still haven't received my beta code for Xbox 1. Can you help?,general_complaint_other,0.9,False
+2602224,THIS NOT FAIR REPLY I JUST ASK YOU TO RETURN AND REFUND MY AMOUNT GREAT CHEATING AMAZON YOU SHOULD NOT TELL EASY RETURN IN ANY PUBLIC MEDIA YOY JUST CHEATING <URL>,refund_return_dispute,0.9,False
+2934446,"Well, that's me bought a new kilt... (Yeah, I know, bought not made - I'm getting fat and lazy in my old age) It is amazing what you can get on nowadays",general_complaint_other,0.9,False
+1694663,I PAID FOR EXPEDITED SHIPPING - WHY IS THIS NOT DELIVERED YET? <URL>,delivery_shipping_issue,0.95,False
+2906573,"So left my delivery (which contained an expensive electronic item) in the garden, all day.. unsheltered! Oh and it rained. . . #nothappy #useyourhead #merryxmas <URL>",delivery_shipping_issue,0.95,False
+2899718,i have a digital service charge but i dont know why,digital_service_device_support,0.9,False
+504945,". I was just told on the phone my neighborhood is ""unsafe"" so I can't have prime packages left on my porch even though I have had them delivered for almost 3 years straight. What kind of socio-economic profiling is this? Thanks for making me want to quit your service",general_complaint_other,0.9,False
+885501,Eh wtf??!! <URL>,general_complaint_other,0.9,False
+281612,"hey so the Her album I preordered has been on ""shipping soon"" for 3 days...what's the hold up??",delivery_shipping_issue,0.9,False
+661394,"your amazon India customer care is hope less, useless , simply bluffing and lying to the customers, be it normal ones or primes customers",general_complaint_other,0.9,False
+910265,Hey! I was charged 39 pounds on 9th of october and I din't buy anything? Ive also havent purchase any prime service?,billing_subscription_dispute,0.9,False
+1072161,Ordered 3T on 5 Oct from I was promised delivery by 8th but it has been 15 Oct and delivery still in process (#1),delivery_shipping_issue,0.95,False
+1329522,Hi I'm having issue with today's deals I click it comes up with the normal price goes to full price,marketplace_seller_trust,0.9,False
+2809391,"Oh , 2 out of 3 orders didn’t deliver on time... massively disappointed #amazondeliveryfail",delivery_shipping_issue,0.95,False
+907493,Concerned turns on before I say “Alexa.” <URL>,digital_service_device_support,0.9,False
+404065,"I was so excited to get off work and drive home to get my package, but it's not here and it says delivered... 😩🤔 #help #amazonprime",delivery_shipping_issue,0.9,False
+2943235,Ima start buying three packs of water instead of two. Be RUNNING through it. I wish i could buy a pack of aquafina in the 1 liter bottles. do you have this?,general_complaint_other,0.9,False
+1266439,When you order shit from and expect it to arrive by the date they say and NOTHING gets here! Awesome. Cool. Amazing. 😡😡😡,delivery_shipping_issue,0.95,False
+848115,order not delivered yet &msg receive yesterday that order delivered.i had paid extra for early delivery .really fed up.Poor servic,delivery_shipping_issue,0.95,False
+2852207,"Not impressed or recommending this Xmas. First parcel supposedly left with a neighbour, even though I was home and that neighbour wasn’t. Then the replacement arrived with the box open, no invoice and items missing??",delivery_shipping_issue,0.9,False
+1565851,being given the option to sign up to a discounted amazon prime but only if i put in a baby name? No context on this screen? <URL>,digital_service_device_support,0.9,False
+1275051,Ordered from and their delivery guy gave my package to someone else I don’t know and now there’s ‘nothing they can do’ 😡😡😡😡😡 😡😡,delivery_shipping_issue,0.95,False
+2300005,You know when can't even get an order right!!!! #WasteOfSpace,general_complaint_other,0.9,False
+925345,"where is my order, frm last two days i am waiting for it,ur courier person not ans the call ? What kind of action u expect frm me? <URL>",delivery_shipping_issue,0.9,False
+2604251,"this is the type of customer service and level of compensation: "" <URL>",general_complaint_other,0.9,False
+262132,Why does your Prime Shipping suck so bad now. I can't get a single order delivered correctly.,delivery_shipping_issue,0.9,False
+2297735,", i am very un happy, one item return <URL> but no reply, no respons, i will return now approx 25 days.",general_complaint_other,0.9,False
+2337729,How do I search for BLU RAY only? I do NOT want DVDs in my search results. <URL>,digital_service_device_support,0.9,False
+1602209,Why do I pay for prime when you never delivery any of my prime orders on time? You don’t know? Me either,billing_subscription_dispute,0.9,False
+2700828,When I logged into my account it asked me to verify my password and then sent me an email with a code...is this legit?!,account_access,0.9,False
+1196766,Why is the cost of my subscription pill pockets going up from $11.82 to $16.99? A subscription price shouldn’t change.,billing_subscription_dispute,0.95,False
+931601,#JeffBezos #Amazon #AmazonIndia What a pathetic service you give to your customers!!!😡😡😡 Incomplete product delivered not once but twice.,delivery_shipping_issue,0.95,False
+382916,I think I found a glitch on . I guess that’s how they can makeup cost for same day delivery cost for everyone else! #amazon <URL>,digital_service_device_support,0.9,False
+1457369,"Your website promised delivery today and charged accordingly, but UPS only has a record of a printed shipping label.",delivery_shipping_issue,0.95,False
+495894,recently ordered a $16.02 poster frame and it arrived broken to pieces. I had to pay to send it back for replacement - cost me $30. Total price will be $56.00 for a $16.00 poster. Not happy. Should've clicked refund instead. Very dissatisfied.,billing_subscription_dispute,0.9,False
+797514,let me know how to send gift card to you I'm feedup with this joker's I've 3072 inr balance need to transfer you,general_complaint_other,0.9,False
+1093293,prime 2day shipping would be awesome if the would ACTUALLY deliver their packages...,delivery_shipping_issue,0.9,False
+2366300,I️ never received a package that says it was delivered. How do I️ fix this?,delivery_shipping_issue,0.95,False
+2151939,"Spent 132700/- by trusting amazon, delivered a malfunctioning device;and now customet suport making me fool, Each time new Excuses, still no replacement or refund generated check this thread: <URL>",billing_subscription_dispute,0.95,False
+105018,if an item is damaged and I want to return it who pays the postage to return it. The buyer or seller,refund_return_dispute,0.9,False
+2151090,returned my defective product on 13Oct. So many days and yet to receive my refund. What kind of a service is this?,refund_return_dispute,0.9,False
+2961696,"For a company claiming to be “Earth's Most Customer-Centric Company“, you really should train your customer service rep to be more friendly. I have had Prime for years but it seems the service quality is going down. It’s not worth $99 to be deal with rude reps",general_complaint_other,0.9,False
+2768993,Tried purchasing the #OnePlus5T twice but got a payment failure msg. Tried again but have no idea if the order is confirmed. ORDER # <PHONE>,billing_subscription_dispute,0.9,False
+530835,"We have returned product on 26th July and still haven't received money back in my account. UTR No: __credit_card__, when we contacted bank they say they didn't receive any amount. PFA. <URL>",billing_subscription_dispute,0.9,False
+698629,my fucking spatula i ordered on amazon better be at my god damn house now come on,delivery_shipping_issue,0.9,False
+421226,Something I ordered from says it's delivered but never got it. What do I do???,delivery_shipping_issue,0.95,False
+2807527,"Hi- my Amazon affiliate reporting isn't working correctly, and the ""contact us"" option for Amazon affiliates is broken. Could I get some assistance?",account_access,0.9,False
+2768997,"Hi, when can we expect cashbacks of Jio recharge (through Amazon Pay) Amazon Pay purchase? Thanks :)",positive_feedback,0.9,False
+2600795,"Cannot ad pay alanace as it request mobile and then says already exists. For problems, it gives this link which displays error <URL>",general_complaint_other,0.9,False
+107275,". keeps sending me stuff I didn't order and now I really, genuinely want to meet the person who put two brown fedoras and some Ben Wa balls in his cart and clicked ""buy that shit!"" <URL>",general_complaint_other,0.9,False
+145742,if you don't let me log in right now i will lose it,account_access,0.9,False
+2525461,what's the price of prime membership for one year?,billing_subscription_dispute,0.9,False
+2780553,"""helping us build Earth's Most Customer-Centric Company"" is there an amendement to this vision which excludes me? Just been told to wait another 24 hours because you've misplaced my delivery (again!).",delivery_shipping_issue,0.9,False
+806345,Shout out to for being so easy to work with when returning an item 🙌🏻,positive_feedback,0.95,False
+1881702,amazon is not working please help been trying for tickets since 10am 😢😢😢,general_complaint_other,0.9,False
+1357672,". is it so difficult to hire customer support people who can speak decent English, if he's manning the English line?",general_complaint_other,0.9,False
+98569,dont even need to open the box to hear out lovely new glasses are completely smashed!!!! <URL>,delivery_shipping_issue,0.95,False
+2825667,"when I order something on prime one day shipping why will it arrive THREE days later? Not exactly 1 day, is it?",delivery_shipping_issue,0.95,False
+2881289,"Hesley Digital Weighing Scale with Advanced Step- on Technology HSB1,Elegant Black <URL> This one worked for a few days and stopped. Now the return window is also gone. I have lost money. No refund. Not working.",refund_return_dispute,0.9,False
+2675668,i have a free trial of Amzon prime but now bank statement shows that i have to pay 2 £. Will send screens in DM,billing_subscription_dispute,0.9,False
+1085967,ordrd washing mac xptd date was 13/10 no rsponse frm CC and email.Regst com in consumer forum docket - 477911. Still no rslution,general_complaint_other,0.9,False
+205765,Email from : reply to this email within 3 days or we will close your claim. I reply. This address does not accept incoming messages.,general_complaint_other,0.9,False
+1449018,<URL> I have to give turn by turn directions to Amazon driver EVERY time Amazon delivers. I'm tired of it. FIX IT!!!,delivery_shipping_issue,0.95,False
+801664,"hi, any idea how long until Mr Robot S3 is up on Prime video Canada?",positive_feedback,0.9,False
+365954,If I can't buy books using the app what's the point of it? #wasteofspace,digital_service_device_support,0.9,False
+819296,wanted to buy a bag viz amazon pay but you declined to add money that time now I don't need kindly return my amount,billing_subscription_dispute,0.9,False
+2890535,"4 of us in the office had an email yesterday saying you tried to deliver our parcel but couldn’t ... when we were all sat in the office with no delivery attempt made. Now, it’s out for delivery today to be with us by 8pm (we don’t work until 8pm) What’s happened?",delivery_shipping_issue,0.95,False
+1156252,Just opened a new screen protector for my phone and one of the screen protectors was already used 🤨🤔 <URL>,general_complaint_other,0.9,False
+351690,"I was told I would be contacted within 2-4 business days about an issue with a preorder last week, why hasn’t this happened?",general_complaint_other,0.9,False
+1786070,"Hi, I’m trying to sign up again to Prime Student but I’m not sure where to go (the Prime Student page isn’t popping up no matter what I press). I’m still a student in college.",digital_service_device_support,0.9,False
+912894,I’m almost positive and the have it out for me.,general_complaint_other,0.9,False
+1104571,"Hey, - I don't want to use my gift card for some purchases from Kindle 10th Anniversary sale of ebooks. I wanna use a CC but my account won't let me. Help, please! 1-click only uses gift card. 😫",digital_service_device_support,0.9,False
+546496,What do think about the customer service answer?? <URL>,general_complaint_other,0.9,False
+1199448,i need help for a order i need a callback asap,account_access,0.95,False
+401608,"Would like to thank Mr.Ankit P, one of your CS executive for providing an excellent support even at stroke of midnight",positive_feedback,0.98,False
+498414,"Why is such a mess? In 7 years of living in the US, I had to call only a handful of times to resolve issues. 3 months of living in Canada and I've already called at least a dozen times.",general_complaint_other,0.9,False
+278669,No clue by ur team as where my package is? Now the tracking order says by 8oct?! Irate by insensitivity of ur staff <URL>,delivery_shipping_issue,0.9,False
+804838,My parcel still hasn't arrived but it says it's due today :(,delivery_shipping_issue,0.9,False
+2521817,"item not delivered,customer service said to return item for a refund, ummm how? when it was never delivered???",delivery_shipping_issue,0.95,False
+538498,How to identify what's the device? At least model number will be helpful <URL>,digital_service_device_support,0.9,False
+944843,when is it launching for prime members in India!!!!!???? #cannotwait,positive_feedback,0.9,False
+226658,"warranty by manufacturer, but no contact details of manufacturer! RUBBISH Amazon deals for Chor companies <URL>",general_complaint_other,0.9,False
+1080286,i ordered a mkeena mal 7la8a w still i didnt recieve it wainh,delivery_shipping_issue,0.95,False
+2843698,"hi, I’m missing 2/3 items ordered on 18/11. Status said delivered. Where are they?",delivery_shipping_issue,0.95,False
+27866,"The email says “PRE-SALE AVAILABLE NOW FOR UK & IRELAND TOUR” no option to purchase tickets for Ireland, help? #Morrissey",marketplace_seller_trust,0.9,False
+2867216,Oh snap... is putting the deliver confusion on . What’s your counter ?,delivery_shipping_issue,0.9,False
+879276,please check they told me last 8th returng mony nt get yet and after that what they are cometting to resolve but not rtrng mny bk <URL>,billing_subscription_dispute,0.9,False
+411439,it's 10th October n over stil not received my order. Not poor but pathetic service. <URL>,delivery_shipping_issue,0.9,False
+2288186,Hey by any chance is it possible to add #KirikParty ? Desperately wanted to see it,general_complaint_other,0.9,False
+1586777,"poor customer service I have ever seen, person is making false promise. Waited for two days then next is talking arrogantly.",general_complaint_other,0.9,False
+2299768,This is the 3rd time in just as many months I’ve discovered random orders that I️ didn’t place. Not cool,general_complaint_other,0.9,False
+2301056,I am furious. Came home to find £200 of items left on my doorstep! In winter. In full view of evveryone. Not meant to be delivered until tomorrow. Could they not have been left with a neighbour!!,delivery_shipping_issue,0.95,False
+1763498,How can something be arriving today yet now it's arriving tomorrow? Prime customers pay for next day delivery but don't get it?! <URL>,delivery_shipping_issue,0.9,False
+608081,pathetic services even to its PRIME Members,account_access,0.9,False
+2747166,"I ordered a new $200 cable modem via prime now. What showed up was baby wipes, butter, and chips. The bag had my order number on it as well. The poor delivery person called her help desk they were totally unhelpful to her. <URL>",delivery_shipping_issue,0.9,False
+701427,how long should it take to get a response to an email query sent from your help section? I've sent two requests in the past 3 days and heard nothing back. Nothing in spam folders either.,general_complaint_other,0.9,False
+2973838,"another incidence of late packages - prime is good for the videos, but not so reliable for shipping <URL>",delivery_shipping_issue,0.9,False

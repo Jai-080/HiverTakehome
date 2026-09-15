@@ -53,8 +53,13 @@ def load_raw() -> pd.DataFrame:
 def build_pairs(df: pd.DataFrame) -> pd.DataFrame:
     replies = df[(df["author_id"] == BRAND) & (df["in_response_to_tweet_id"].notna())].copy()
 
-    customer = df[df["inbound"]][["tweet_id", "text", "created_at"]].rename(
-        columns={"tweet_id": "customer_tweet_id", "text": "customer_tweet", "created_at": "customer_created_at"}
+    customer = df[df["inbound"]][["tweet_id", "text", "created_at", "in_response_to_tweet_id"]].rename(
+        columns={
+            "tweet_id": "customer_tweet_id",
+            "text": "customer_tweet",
+            "created_at": "customer_created_at",
+            "in_response_to_tweet_id": "customer_in_response_to_tweet_id",
+        }
     )
 
     pairs = replies.merge(
@@ -62,7 +67,15 @@ def build_pairs(df: pd.DataFrame) -> pd.DataFrame:
     )
     pairs = pairs.rename(columns={"tweet_id": "brand_reply_id", "text": "brand_reply", "created_at": "brand_created_at"})
     pairs = pairs[
-        ["customer_tweet_id", "customer_tweet", "customer_created_at", "brand_reply_id", "brand_reply", "brand_created_at"]
+        [
+            "customer_tweet_id",
+            "customer_tweet",
+            "customer_created_at",
+            "customer_in_response_to_tweet_id",
+            "brand_reply_id",
+            "brand_reply",
+            "brand_created_at",
+        ]
     ]
     return pairs.reset_index(drop=True)
 
