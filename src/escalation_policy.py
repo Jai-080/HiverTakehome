@@ -18,8 +18,6 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
-import torch
-from sentence_transformers import SentenceTransformer
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
@@ -101,6 +99,13 @@ def decide(
 
 
 def print_score_distributions() -> None:
+    # Lazy import: only this diagnostic needs torch/sentence-transformers, and
+    # dragging them into every import of this module (e.g. run_baselines.py,
+    # which only wants HIGH_RISK_INTENTS) would defeat the point of a
+    # lightweight "verify the numbers" reproduction path -- see README.
+    import torch
+    from sentence_transformers import SentenceTransformer
+
     pseudo = pd.read_csv(IN_PSEUDO)
     print(f"Confidence distribution (pseudo_labels.csv, n={len(pseudo)}):")
     print(pseudo["confidence"].describe(percentiles=[0.25, 0.5, 0.75]))

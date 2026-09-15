@@ -22,12 +22,12 @@ Two paths, depending on what you want to check.
 
 ### Quick: verify the reported numbers (~2 minutes, no GPU, no model downloads)
 
-Reproduces the exact headline metrics in `reports/baseline_comparison.md` and `reports/judge_calibration.md` from the already-committed golden-set labels and LLM outputs — no re-running of the (multi-hour, GPU-bound) generation pipeline.
+Reproduces the exact headline metrics in `reports/baseline_comparison.md` and `reports/judge_calibration.md` from the already-committed golden-set labels and LLM outputs — no re-running of the (multi-hour, GPU-bound) generation pipeline. Installs only what these two scripts actually need, not the full (torch-heavy) `requirements.txt` — that's the Deep path below.
 
 ```bash
 python -m venv .venv
 # Windows: .venv\Scripts\activate    macOS/Linux: source .venv/bin/activate
-pip install -r requirements.txt
+pip install pandas scikit-learn scipy joblib
 
 python src/run_baselines.py             # -> reports/baseline_comparison.md
 python src/compute_judge_agreement.py   # -> reports/judge_calibration.md
@@ -38,6 +38,8 @@ Both scripts read only committed files: `data/processed/pseudo_labels.csv`, `dat
 ### Deep: re-run pipeline stages on the committed subsample
 
 `data/processed/amazonhelp_working.csv` (9,000 rows) and `amazonhelp_heldout.csv` (4,000 rows) are committed directly — the outputs of the full raw-data cleaning pipeline — so you can re-run any downstream stage without the 493MB Kaggle raw CSV. First run downloads two local models (`~/.cache/huggingface`): `bge-large-en-v1.5` (~1.3GB) and `Phi-3-mini-4k-instruct` (~7.6GB full-precision weights, quantized to 4-bit at load time, ~2.5GB VRAM). **CUDA is not hard-required** — every script falls back to CPU (`torch.cuda.is_available()` check) — but CPU generation is dramatically slower than the GPU numbers below; a GPU is strongly recommended for anything beyond a handful of rows.
+
+`pip install -r requirements.txt` installs the **CPU-only** `torch` wheel by default (confirmed: `2.14.0+cpu`, `cuda.is_available()==False` straight off PyPI) — that's what happened during this project too. For GPU, reinstall after: `pip uninstall torch -y && pip install torch --index-url https://download.pytorch.org/whl/cu126` (match the `cu1xx` tag to what `nvidia-smi`'s "CUDA Version" reports as supported, not necessarily `cu126`).
 
 Measured timings (RTX 3050 6GB laptop GPU, this machine):
 
